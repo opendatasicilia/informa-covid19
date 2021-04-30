@@ -31,3 +31,4 @@ InformaCOVID19 è già utilizzato da alcune Amministrazioni Pubbliche. Guarda de
 
 ---
 ### Licenza
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it)
