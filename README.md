@@ -25,7 +25,7 @@ InformaCOVID19 è già utilizzato da alcune Amministrazioni Pubbliche. Guarda de
 
 
 ### Esempi d'uso
- - [Comune di Catenanuova (EN)](https://datastudio.google.com/reporting/7450bed5-7638-4dbe-9026-50afa7b48fd6)
+ - [Comune di Catenanuova (EN)](https://notizie.link/dashboardcatenanuova)
  - [Comune di Regalbuto (EN)](https://newsl.ink/dashboardregalbuto) 
  - [Comune di Serradifalco (CL)](https://datastudio.google.com/reporting/45ec94b1-32f0-489e-b882-977c12af81d4)
 
