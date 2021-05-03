@@ -1,5 +1,10 @@
 #!/bin/bash
 
+### requisiti ###
+# - jq https://github.com/stedolan/jq/
+# - yq https://github.com/kislyuk/yq
+### requisiti ###
+
 set -x
 set -e
 set -u
