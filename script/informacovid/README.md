@@ -1,6 +1,6 @@
 # informacovid.sh
 
-È uno script che a partire dal [file](../../dati/informacovid/informacovid.yml) che contiene l'anagrafica dei file CSV che hanno aderito `informacovid`, li scarica nella cartella `dati/informacovid/`.
+È uno script che a partire dal [file](../../dati/informacovid/informacovid.yml) che contiene l'anagrafica dei file CSV che hanno aderito `informacovid`, li scarica nella cartella [`dati/informacovid/`](../../dati/informacovid).
 
 Per ogni comune viene creata un cartella a cui come nome viene assegnato il codice ISTAT del comune, e al suo interno viene creato un CSV con lo stesso nome.
 
