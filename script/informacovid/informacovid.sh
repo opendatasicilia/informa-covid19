@@ -34,4 +34,8 @@ yq <"$folder"/../../dati/informacovid/informacovid.yml -r '.[].comune_codice_ist
   echo "comune_codice_istat=$line,valid=$valido" >>"$folder"/../../dati/informacovid/report.csv
 done
 
+# converti report in csv
 mlr -I --ocsv sort -f comune_codice_istat "$folder"/../../dati/informacovid/report.csv
+
+# crea schema dati in formato markdown
+<"$folder"/../../dati/informacovid/informacovid_schema.yaml yq '.fields[]' | mlr --j2m unsparsify >"$folder"/../../dati/informacovid/informacovid_schema.md
