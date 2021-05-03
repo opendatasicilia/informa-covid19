@@ -24,3 +24,15 @@ Quindi ad esempio il file del comune di Regalbuto, codice ISTAT `086016`, sarà 
 - comune_codice_istat: nuovoCodiceISTAT
   URL_csv: https://nuovoURL/file.csv
 ```
+
+## URL dei CSV dei comuni
+
+Al momento ha questa struttura:
+
+```
+https://raw.githubusercontent.com/opendatasicilia/informa-covid19/main/dati/informacovid/codiceISTAT/codiceISTAT.csv
+```
+
+Quindi ad esempio:
+
+<https://raw.githubusercontent.com/opendatasicilia/informa-covid19/main/dati/informacovid/086016/086016.csv>
