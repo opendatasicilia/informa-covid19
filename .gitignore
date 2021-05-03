@@ -603,3 +603,6 @@ FodyWeavers.xsd
 dist/
 
 tmp*
+
+# Script outputs
+script/dati-popolazione/*.csv
