@@ -6,6 +6,10 @@ Per ogni comune viene creata un cartella a cui come nome viene assegnato il codi
 
 Quindi ad esempio il file del comune di Regalbuto, codice ISTAT `086016`, sarà in questa posizione: [`dati/informacovid/086016/086016.csv`](../../dati/informacovid/086016/086016.csv).
 
+## Quando e come viene eseguito lo script
+
+È gestito tramite [questo workflow di github](.github/workflows/informacovid.yml).
+
 ## Come aggiungere un comune alla lista
 
 - aprire il [file con l'anagrafica](../../dati/informacovid/informacovid.yml). **NOTA BENE** il codice ISTAT deve essere composto da 6 caratteri;
