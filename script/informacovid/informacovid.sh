@@ -31,6 +31,9 @@ yq <"$folder"/../../dati/informacovid/informacovid.yml -r '.[].comune_codice_ist
   # scarica file
   curl -kL "$URL" >"$folder"/../../dati/informacovid/"$line"/"$line".csv
 
+  # applica 0 padding a 6 caretteri ai codici comunali
+  # mlr -I --csv put '$codice_comune=fmtnum($codice_comune,"%06d")' "$folder"/../../dati/informacovid/"$line"/"$line".csv
+
   # valida
   valido=$(frictionless validate --schema "$folder"/../../dati/informacovid/informacovid_schema.yaml "$folder"/../../dati/informacovid/"$line"/"$line".csv --json | jq -r '.valid')
   # crea report validazione
