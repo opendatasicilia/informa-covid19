@@ -34,4 +34,4 @@ yq <"$folder"/../../dati/informacovid/informacovid.yml -r '.[].comune_codice_ist
   echo "comune_codice_istat=$line,valid=$valido" >>"$folder"/../../dati/informacovid/report.csv
 done
 
-mlr -I --ocsv cat "$folder"/../../dati/informacovid/report.csv
+mlr -I --ocsv sort -f comune_codice_istat "$folder"/../../dati/informacovid/report.csv
