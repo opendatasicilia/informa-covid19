@@ -12,10 +12,13 @@ set -o pipefail
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-
+# per ogni comune presente nella lista degli aderenti
 yq <"$folder"/../../dati/informacovid/informacovid.yml -r '.[].comune_codice_istat' | while read line; do
+  # crea cartella contenitore
   mkdir -p "$folder"/../../dati/informacovid/"$line"
 
-  URL=$(<"$folder"/../../dati/informacovid/informacovid.yml yq -r '.[]|select(.comune_codice_istat| contains("'"$line"'"))|.URL_csv')
+  # estrai URL file
+  URL=$(yq <"$folder"/../../dati/informacovid/informacovid.yml -r '.[]|select(.comune_codice_istat| contains("'"$line"'"))|.URL_csv')
+  # scarica file
   curl -kL "$URL" >"$folder"/../../dati/informacovid/"$line"/"$line".csv
 done
