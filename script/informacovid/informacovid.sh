@@ -3,6 +3,8 @@
 ### requisiti ###
 # - jq https://github.com/stedolan/jq/
 # - yq https://github.com/kislyuk/yq
+# - fritionless https://github.com/frictionlessdata/frictionless-py
+# - Miller https://github.com/johnkerl/miller
 ### requisiti ###
 
 set -x
