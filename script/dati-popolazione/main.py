@@ -46,6 +46,19 @@ if(len(zero_pop)>0):
             mode = "manualmente"
     print("\nLe popolazioni di questi paesi sono state aggiornate "+mode+"!")
 
+#Ordine colonne
+df = df.reindex([
+    'comune_denominazione',
+    'comune_codice_istat',
+    'latitudine',
+    'longitudine',
+    'popolazione',
+    'provincia_denominazione',
+    'provincia_sigla',
+    'regione_denominazione',
+    'regione_codice'
+    ], axis=1)
+
 #Esporta a CSV
 df.to_csv('../../dati/dati-popolazione/elenco-comuni-italiani.csv', index=None)
 
