@@ -29,9 +29,9 @@ Quindi ad esempio il file del comune di Regalbuto, codice ISTAT `086016`, sarà 
 
 Al momento ha questa struttura:
 
-```
-https://raw.githubusercontent.com/opendatasicilia/informa-covid19/main/dati/informacovid/codiceISTAT/codiceISTAT.csv
-```
+
+ht<span>t</span>ps://raw.githubusercontent.com/opendatasicilia/informa-covid19/main/dati/informacovid/`codiceISTAT`/`codiceISTAT.csv`
+
 
 Quindi ad esempio:
 
