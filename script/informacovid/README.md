@@ -8,7 +8,7 @@ Quindi ad esempio il file del comune di Regalbuto, codice ISTAT `086016`, sarà 
 
 ## Quando e come viene eseguito lo script
 
-È gestito tramite [questo workflow di github](.github/workflows/informacovid.yml).
+È gestito tramite [questo workflow di github](../../.github/workflows/informacovid.yml).
 
 ## Come aggiungere un comune alla lista
 
