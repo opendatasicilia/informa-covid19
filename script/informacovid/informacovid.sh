@@ -14,6 +14,7 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 git pull
 
+# se il file di report esiste già, cancellalo
 if [ -f "$folder"/../../dati/informacovid/report.csv ]; then
   rm "$folder"/../../dati/informacovid/report.csv
 fi
