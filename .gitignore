@@ -601,3 +601,5 @@ FodyWeavers.xsd
 .idea/
 .vscode/
 dist/
+
+tmp*
