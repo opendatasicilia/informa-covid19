@@ -1,7 +1,7 @@
 name: aggiorna dati lista comuni aderenti informacovid
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '45 15 * * *'
@@ -17,6 +17,8 @@ jobs:
     - name: installa yq
       run: |-
         sudo pip install yq
+        sudo pip install frictionless
+        sudo apt-get install miller
     - name: aggiorna dati
       run: |-
         cd ./script/informacovid
