@@ -29,13 +29,19 @@ yq <"$folder"/../../dati/informacovid/informacovid.yml -r '.[].comune_codice_ist
   # estrai URL file
   URL=$(yq <"$folder"/../../dati/informacovid/informacovid.yml -r '.[]|select(.comune_codice_istat| contains("'"$line"'"))|.URL_csv')
   # scarica file
-  curl -kL "$URL" >"$folder"/../../dati/informacovid/"$line"/"$line".csv
+  curl -kL "$URL" >"$folder"/../../dati/informacovid/"$line"/tmp.csv
 
   # applica 0 padding a 6 caretteri ai codici comunali
   # mlr -I --csv put '$codice_comune=fmtnum($codice_comune,"%06d")' "$folder"/../../dati/informacovid/"$line"/"$line".csv
 
   # valida
-  valido=$(frictionless validate --schema "$folder"/../../dati/informacovid/informacovid_schema.yaml "$folder"/../../dati/informacovid/"$line"/"$line".csv --json | jq -r '.valid')
+  valido=$(frictionless validate --schema "$folder"/../../dati/informacovid/informacovid_schema.yaml "$folder"/../../dati/informacovid/"$line"/tmp.csv --json | jq -r '.valid')
+
+  # se il CSV non è valido eliminalo
+  if [[ "$valido" == "true" ]]; then
+    mv "$folder"/../../dati/informacovid/"$line"/tmp.csv "$folder"/../../dati/informacovid/"$line"/"$line".csv
+  fi
+
   # crea report validazione
   echo "comune_codice_istat=$line,valid=$valido" >>"$folder"/../../dati/informacovid/report.csv
 done
