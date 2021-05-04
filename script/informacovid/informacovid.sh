@@ -42,6 +42,3 @@ done
 
 # converti report in csv
 mlr -I --ocsv sort -f comune_codice_istat "$folder"/../../dati/informacovid/report.csv
-
-# crea schema dati in formato markdown
-yq <"$folder"/../../dati/informacovid/informacovid_schema.yaml '.fields[]' | mlr --j2m unsparsify >"$folder"/../../dati/informacovid/informacovid_schema.md
