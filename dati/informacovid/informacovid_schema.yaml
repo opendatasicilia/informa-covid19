@@ -8,6 +8,8 @@ fields:
   - name: codice_comune
     type: string
     description: Codice del Comune (ISTAT 2021)
+    constraints:
+      pattern: ^[0-9]{6}$
   - name: denominazione_comune
     type: string
     description: Denominazione del Comune
