@@ -5,20 +5,8 @@
     import OpenTab from './ui/OpenTab.svelte'
     import OpenTabs from './ui/OpenTabs.svelte'
     import PageSection from './ui/PageSection.svelte'
-    import Meta from './Meta.svelte'
-
-    const metadata = {
-        title: 'Informa Covid',
-        description: 'Buone pratiche di comunicazione pubblica dei dati COVID19 da parte dei comuni',
-        image: 'https://informacovid.opendatasicilia.it/informa-covid19.jpg',
-        imageAlt: 'Informa Covid',
-        url:'https://informacovid.opendatasicilia.it/',
-        type: 'article',
-        twitterCard: 'summary_large_image',
-	}
 </script>
 
-<Meta {metadata}/>
 <main class='main'>
     <PageSection title='Il tuo kit di comunicazione'
                  subTitle='Ti aiutiamo a comunicare in maniera trasparente ed efficace i dati Covid della tua Amministrazione'>
