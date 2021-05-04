@@ -6,6 +6,19 @@ Per ogni comune viene creata un cartella a cui, come nome, viene assegnato il co
 
 Quindi ad esempio il file del comune di Regalbuto, codice ISTAT `086016`, sarà in questa posizione: [`dati/informacovid/086016/086016.csv`](../../dati/informacovid/086016/086016.csv).
 
+## Schema dati
+
+Lo schema è quello di [questo file](../../dati/informacovid/informacovid_schema.yaml), descritto secondo le specifiche [*frictionless*](https://frictionlessdata.io/).
+
+## Validazione dati
+
+Ad ogni aggiornamento viene fatto anche un controllo di validità delle fonti dati. Questi alcuni dei controlli, basati sul [file](../../dati/informacovid/informacovid_schema.yaml) che definisce lo schema:
+
+- la presenza dei campi;
+- la coerenza del contenuto dei campi, rispetto alla loro definizione (testo, numeri, date, ecc.);
+- il rispetto di eventuali vincoli (ad esempio che il campo con il codice ISTAT sia composto da 6 caratteri numerici).
+
+
 ## Quando e come viene eseguito lo script
 
 È gestito tramite [questo workflow di github](../../.github/workflows/informacovid.yml).
