@@ -1,7 +1,7 @@
 name: aggiorna dati lista comuni aderenti informacovid
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '45 15 * * *'
