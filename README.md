@@ -1,4 +1,5 @@
-[![](https://img.shields.io/badge/discussioni-partecipa-brightgreen?style=for-the-badge&logo=github)](https://github.com/opendatasicilia/informa-covid19/discussions)
+[![](https://img.shields.io/badge/discussioni-partecipa-%2344CC11)](https://frictionlessdata.io/) [![](https://img.shields.io/badge/frictionless-ready-%23EA6D4C)](https://frictionlessdata.io/)
+
 
 ---
 
@@ -12,6 +13,8 @@
     - [Template dashboard](#template-dashboard)
     - [Esempi d'uso](#esempi-duso)
 - [Landing Page](#landing-page)
+    - [Sviluppo locale](#sviluppo-locale)
+    - [Suggerimenti pratici](#suggerimenti-pratici)
 - [Licenza](#licenza)
 
 ---
