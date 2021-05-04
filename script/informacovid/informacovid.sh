@@ -43,8 +43,8 @@ yq <"$folder"/../../dati/informacovid/informacovid.yml -r '.[].comune_codice_ist
   fi
 
   # crea report validazione
-  data=$(date --iso-8601=seconds)
-  echo "comune_codice_istat=$line,valid=$valido,dateTime=$data" >>"$folder"/../../dati/informacovid/report.csv
+  #data=$(date --iso-8601=seconds)
+  echo "comune_codice_istat=$line,valid=$valido" >>"$folder"/../../dati/informacovid/report.csv
 done
 
 # converti report in csv
