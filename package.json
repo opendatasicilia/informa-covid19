@@ -6,6 +6,7 @@
     "build": "vite build",
     "lint": "eslint . --ext .js,.svelte --fix",
     "dev": "vite",
+    "prepare": "husky install",
     "serve": "vite preview"
   },
   "license": "CC-BY 4.0",
