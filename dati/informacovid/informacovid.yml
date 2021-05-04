@@ -2,3 +2,13 @@
   URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRXHbLv9Jm42EA8Y3YExNUUwKJkRTkrtQklpbnRjWI6IjqDyd6Qz6qg2vMpYQa6gTfS47qgzP0GnpuM/pub?output=csv
 - comune_codice_istat: 086006
   URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vTlrE5ZIN7G8gH1liZwmwP0HCsw9YSrxHF_ccpHIGXVJRBsyCvtpinRBLLjbM8Au_BoGaqxLdZeDB59/pub?gid=234868662&single=true&output=csv
+- comune_codice_istat: 082004
+  URL_csv: https://raw.githubusercontent.com/gabacode/f8lite/main/dati-comuni/dpc-covid19-ita-pa-082004.csv
+- comune_codice_istat: 082006
+  URL_csv: https://raw.githubusercontent.com/gabacode/f8lite/main/dati-comuni/dpc-covid19-ita-pa-082006.csv
+- comune_codice_istat: 082023
+  URL_csv: https://raw.githubusercontent.com/gabacode/f8lite/main/dati-comuni/dpc-covid19-ita-pa-082023.csv
+- comune_codice_istat: 082035
+  URL_csv: https://raw.githubusercontent.com/gabacode/f8lite/main/dati-comuni/dpc-covid19-ita-pa-082035.csv
+- comune_codice_istat: 082067
+  URL_csv: https://raw.githubusercontent.com/gabacode/f8lite/main/dati-comuni/dpc-covid19-ita-pa-082067.csv
