@@ -49,9 +49,21 @@
   },
   "contributors": [
     {
+      "name": "Dennis Angemi"
+    },
+    {
+      "name": "Andrea Borruso"
+    },
+    {
       "name": "Angelo Gulina",
       "email": "write@angelogulina.dev",
       "url": "https://angelogulina.dev"
+    },
+    {
+      "name": "Giovanni Pirrotta"
+    },
+    {
+      "name": "Gabriele Scalisi"
     }
   ]
 }
