@@ -1,5 +1,7 @@
 <script>
-    import Button from './ui/Button.svelte';
+    import { scrollTo } from './actions/scrollTo';
+
+    import Button from './ui/Button.svelte'
 </script>
 
 <ul>
@@ -7,7 +9,7 @@
         <a class='nav-item-link' href='#cosa'>Cosa è Informa Covid?</a>
     </li>
     <li class='nav-item'>
-        <a class='nav-item-link' href='#esperienze'>Esperienze</a>
+        <a use:scrollTo={'#esperienze'} class='nav-item-link' href='#esperienze'>Esperienze</a>
     </li>
     <li class='nav-item'>
         <Button variant='primary-light'>Contattaci</Button>

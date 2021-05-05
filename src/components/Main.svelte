@@ -1,7 +1,10 @@
 <script>
-    import Button from './ui/Button.svelte';
-    import dashboardDesktop from '../assets/dashboard-desktop.svg'
+    import dashboardDesktop from '../assets/dashboard-desktop.svg';
     import dashboardMobile from '../assets/dashboard-mobile.svg'
+    import exampleCate from '../assets/catenanuova-600x600.png'
+    import exampleSerra from '../assets/regalbuto-600x600.png'
+    import exampleRega from '../assets/serradifalco-600x600.png'
+    import Button from './ui/Button.svelte'
     import OpenTab from './ui/OpenTab.svelte'
     import OpenTabs from './ui/OpenTabs.svelte'
     import PageSection from './ui/PageSection.svelte'
@@ -44,15 +47,35 @@
             </OpenTabs>
         </section>
     </PageSection>
-    <PageSection title='Esperienze'
+    <PageSection id='esperienze'
+                 title='Esperienze'
                  subTitle='Le Amministrazioni che usano già Informa Covid'>
         <section class='tabs'>
             <OpenTabs>
                 <OpenTab>
+                    <div>
+                        <a class='experience' href='https://newsl.ink/dashboardregalbuto'>
+                            <img src={exampleRega} alt=''>
+                            <p>Regalbuto (EN)</p>
+                        </a>
+                    </div>
                 </OpenTab>
                 <OpenTab>
+                    <div>
+                        <a class='experience' href='https://notizie.link/dashboardcatenanuova'>
+                            <img src={exampleCate} alt=''>
+                            <p>Catenanuova (EN)</p>
+                        </a>
+                    </div>
                 </OpenTab>
                 <OpenTab>
+                    <div>
+                        <a class='experience'
+                           href='https://datastudio.google.com/reporting/45ec94b1-32f0-489e-b882-977c12af81d4'>
+                            <img src={exampleSerra} alt=''>
+                            <p>Serradifalco (CL)</p>
+                        </a>
+                    </div>
                 </OpenTab>
             </OpenTabs>
         </section>
@@ -66,6 +89,14 @@
 
     .dashboard {
         @apply flex justify-center mt-16;
+    }
+
+    .experience {
+        @apply flex flex-col text-center;
+    }
+
+    .experience p {
+        @apply mt-8;
     }
 
     .tabs {

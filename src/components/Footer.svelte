@@ -44,7 +44,7 @@
     }
 
     footer {
-        @apply bg-secondary leading-snug py-12 pb-16 text-white;
+        @apply bg-secondary leading-snug mt-12 py-12 pb-16 text-white;
     }
 
     h3 {

@@ -39,7 +39,7 @@ module.exports = {
               dev,
               css: true,
               hydratable: true,
-              hotReload: false,
+              hotReload: true,
               preprocess,
             },
           },
