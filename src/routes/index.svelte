@@ -1,16 +1,14 @@
 <script>
     import Meta from '../components/Meta.svelte';
     import Page from '../components/Page.svelte'
-    import socialCardTwitter from '../assets/informa-covid-social-card-tw.png'
-    import socialCardFacebook from '../assets/informa-covid-social-card-fb.png'
 
     const metadata = {
       title: 'Informa Covid',
       description:
         'Buone pratiche di comunicazione pubblica dei dati COVID19 per le Amministrazioni Locali',
       image: {
-        general: socialCardFacebook,
-        twitter: socialCardTwitter,
+        general: 'https://informacovid.opendatasicilia.it/informa-covid-social-card-fb.png',
+        twitter: 'https://informacovid.opendatasicilia.it/informa-covid-social-card-tw.png',
       },
       imageAlt: 'Informa Covid',
       url: 'https://informacovid.opendatasicilia.it/',
