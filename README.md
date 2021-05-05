@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/discussioni-partecipa-%2344CC11)](https://frictionlessdata.io/) [![](https://img.shields.io/badge/frictionless-ready-%23EA6D4C)](https://frictionlessdata.io/)
+[![](https://img.shields.io/badge/discussioni-partecipa-%2344CC11)](https://github.com/opendatasicilia/informa-covid19/discussions) [![](https://img.shields.io/badge/frictionless-ready-%23EA6D4C)](https://frictionlessdata.io/)
 
 
 ---
