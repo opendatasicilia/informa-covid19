@@ -1,8 +1,5 @@
 module.exports = {
-  purge: {
-    content: ['./src/**/*.svelte'],
-    enabled: process.env.NODE_ENV === 'production',
-  },
+  purge: ['./src/**/*.svelte', './src/**/*.html'],
   darkMode: false,
   theme: {
     extend: {

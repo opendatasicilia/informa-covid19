@@ -22,7 +22,8 @@
 </div>
 <Footer />
 <div class='top'>
-    <a use:scrollToTop href='#'>Torna su</a>
+    <!-- svelte-ignore a11y-missing-attribute -->
+    <a use:scrollToTop href='/#'>Torna su</a>
 </div>
 
 <style lang='postcss'>

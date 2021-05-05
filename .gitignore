@@ -602,7 +602,7 @@ FodyWeavers.xsd
 .idea/
 .vscode/
 dist/
-
+/__sapper__/
 tmp*
 
 # Script outputs

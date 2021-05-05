@@ -7,7 +7,7 @@
 </script>
 
 {#if scrollTo}
-    <a use:scrollToAction={scrollTo} href='#' class='{`button button-${variant}`}'>
+    <a use:scrollToAction={scrollTo} href='/#' class='{`button button-${variant}`}'>
         <slot />
     </a>
 {:else }

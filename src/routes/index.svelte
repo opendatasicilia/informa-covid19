@@ -1,8 +1,7 @@
 <script>
-    import Meta from './components/Meta.svelte';
-    import Page from './components/Page.svelte'
-    import socialCardFacebook from './assets/informa-covid-social-card-fb.png'
-    import socialCardTwitter from './assets/informa-covid-social-card-tw.png'
+    import Meta from '../components/Meta.svelte';
+    import Page from '../components/Page.svelte'
+    import socialCardTwitter from '../assets/informa-covid-social-card-tw.png'
 
     const metadata = {
       title: 'Informa Covid',

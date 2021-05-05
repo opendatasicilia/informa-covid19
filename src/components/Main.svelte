@@ -25,19 +25,19 @@
                 <OpenTab title='Inserisci i dati con il Google Form'>
                     <p>Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis,
                         suspendisse.</p>
-                    <a slot='action' class='action' href='#'>Crea il Form Google</a>
+                    <a slot='action' class='action' href='/#'>Crea il Form Google</a>
                 </OpenTab>
                 <OpenTab title='Comunica i dati con la tua dashboard'>
                     <p>Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis,
                         suspendisse.</p>
-                    <a slot='action' class='action' href='#'>
+                    <a slot='action' class='action' href='/#'>
                         Crea la dashbaord con Google Data Studio
                     </a>
                 </OpenTab>
                 <OpenTab title='Scopri il SiciliaCovid19Bot'>
                     <p>Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis,
                         suspendisse.</p>
-                    <a slot='action' class='action' href='#'>
+                    <a slot='action' class='action' href='/#'>
                         Vai a CovidBot
                     </a>
                 </OpenTab>
@@ -60,10 +60,6 @@
 </main>
 
 <style lang='postcss'>
-    article {
-        @apply mt-12 text-center;
-    }
-
     .action {
         @apply text-secondary;
     }

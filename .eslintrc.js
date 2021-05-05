@@ -23,7 +23,7 @@ module.exports = {
     },
   ],
   plugins: ['svelte3'],
-  ignorePatterns: ['node_modules'],
+  ignorePatterns: ['node_modules', 'service-worker.js'],
   rules: {
     'prettier/prettier': 2,
     'no-unused-vars': 0,
