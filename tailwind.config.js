@@ -1,5 +1,17 @@
+const mode = process.env.NODE_ENV
+const dev = mode === 'development'
+
 module.exports = {
-  purge: ['./src/**/*.svelte', './src/**/*.html'],
+  purge: {
+    content: ['./src/**/*.svelte', './src/**/*.html'],
+    defaultExtractor: (content) => {
+      const broadMatches = content.match(/[^<>"'`\s]*[^<>"'`\s:]/g) || []
+      const broadMatchesWithoutTrailingSlash = broadMatches.map((match) => _.trimEnd(match, '\\'))
+      const matches = broadMatches.concat(broadMatchesWithoutTrailingSlash)
+      return matches
+    },
+    enabled: !dev,
+  },
   darkMode: false,
   theme: {
     extend: {
