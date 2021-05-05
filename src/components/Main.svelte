@@ -2,8 +2,8 @@
     import dashboardDesktop from '../assets/dashboard-desktop.svg';
     import dashboardMobile from '../assets/dashboard-mobile.svg'
     import exampleCate from '../assets/catenanuova-600x600.png'
-    import exampleSerra from '../assets/regalbuto-600x600.png'
-    import exampleRega from '../assets/serradifalco-600x600.png'
+    import exampleRega from '../assets/regalbuto-600x600.png'
+    import exampleSerra from '../assets/serradifalco-600x600.png'
     import Button from './ui/Button.svelte'
     import OpenTab from './ui/OpenTab.svelte'
     import OpenTabs from './ui/OpenTabs.svelte'
