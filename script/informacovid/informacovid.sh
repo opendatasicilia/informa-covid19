@@ -31,13 +31,10 @@ yq <"$folder"/../../dati/informacovid/informacovid.yml -r '.[].comune_codice_ist
   # scarica file
   curl -kL "$URL" >"$folder"/../../dati/informacovid/"$line"/tmp.csv
 
-  # applica 0 padding a 6 caretteri ai codici comunali
-  # mlr -I --csv put '$codice_comune=fmtnum($codice_comune,"%06d")' "$folder"/../../dati/informacovid/"$line"/"$line".csv
-
-  # valida
+  # valida il file
   valido=$(frictionless validate --schema "$folder"/../../dati/informacovid/informacovid_schema.yaml "$folder"/../../dati/informacovid/"$line"/tmp.csv --json | jq -r '.valid')
 
-  # se il CSV non è valido eliminalo
+  # aggiorna il file sul repo, soltanto se è valido
   if [[ "$valido" == "true" ]]; then
     mv "$folder"/../../dati/informacovid/"$line"/tmp.csv "$folder"/../../dati/informacovid/"$line"/"$line".csv
   fi
