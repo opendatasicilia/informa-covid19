@@ -29,10 +29,11 @@ jobs:
       - name: Install and Build 🔧
         run: |-
           npm ci
-          npm run export
-          ls -la __sapper__/export/
+          npm run export -- --basepath '/'
           mkdir -p dist/
-          cp -a __sapper__/export/ dist/
+          cp -a __sapper__/export/* dist/
+          cp -a __sapper__/export/client/* dist/
+          cp -a __sapper__/export/client/images/* dist/
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.1
