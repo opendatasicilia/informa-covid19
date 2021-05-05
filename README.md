@@ -49,7 +49,7 @@ InformaCovid è già utilizzato da alcune Amministrazioni Pubbliche. Guarda degl
 
 # Landing Page
 
-La Landing Page di InformaCovid utilizza `Vite` e `Svelte` e `Tailwind CSS`.
+La Landing Page di InformaCovid utilizza `Sapper` con `Svelte` e `Tailwind CSS`.
 
 ### Sviluppo locale
 
