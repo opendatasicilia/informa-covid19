@@ -18,6 +18,24 @@ Ad ogni aggiornamento viene fatto anche un controllo di validità delle fonti da
 - la coerenza del contenuto dei campi, rispetto alla loro definizione (testo, numeri, date, ecc.);
 - il rispetto di eventuali vincoli (ad esempio che il campo con il codice ISTAT sia composto da 6 caratteri numerici).
 
+### Essere avvisati sui report di validazione
+
+Uno dei modi per farlo è iscriversi al Feed RSS del file di report:<br>
+<https://github.com/opendatasicilia/informa-covid19/commits/main/dati/informacovid/report.csv.atom>
+
+Il report di validazione è fatto così:
+
+| comune_codice_istat | valid |
+| --- | --- |
+| 082004 | true |
+| 082006 | false |
+| ... | ... |
+
+Questo verrà aggiornato soltanto quando ci sarà una variazione nel file, quindi quando:
+
+- sarà cancellato o aggiunto un nuovo comune;
+- la validazione su un file di un comune passerà da `true` a `false` e viceversa.
+
 
 ## Quando e come viene eseguito lo script
 
@@ -49,3 +67,4 @@ ht<span>t</span>ps://raw.githubusercontent.com/opendatasicilia/informa-covid19/m
 Quindi ad esempio:
 
 <https://raw.githubusercontent.com/opendatasicilia/informa-covid19/main/dati/informacovid/086016/086016.csv>
+
