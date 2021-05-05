@@ -51,6 +51,9 @@ InformaCovid è già utilizzato da alcune Amministrazioni Pubbliche. Guarda degl
 
 La Landing Page di InformaCovid utilizza `Sapper` con `Svelte` e `Tailwind CSS`.
 
+`Sapper` permette di generare una Landing Page statica così da essere meglio utilizzata in contesti SEO e social
+(per le anteprime sharing).
+
 ### Sviluppo locale
 
 Se vuoi contribuire e vuoi visualizzare l'anteprima delle modifiche in locale:

@@ -51,6 +51,7 @@ module.exports = {
               loader: 'file-loader',
               options: {
                 outputPath: 'images',
+                name: '[name]-[contenthash].[ext]',
               },
             },
           ],
@@ -98,6 +99,7 @@ module.exports = {
               options: {
                 outputPath: 'images',
                 publicPath: '/',
+                name: '[name]-[contenthash].[ext]',
               },
             },
           ],

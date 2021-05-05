@@ -19,9 +19,9 @@
     {/if}
 
     {#if metadata.image}
-        <meta property='og:image' content={metadata.image} />
-        <meta property='twitter:image' content={metadata.image} />
-        <meta property='og:image:secure_url' content={metadata.image} />
+        <meta property='og:image' content={metadata.image.general} />
+        <meta property='twitter:image' content={metadata.image.twitter} />
+        <meta property='og:image:secure_url' content={metadata.general} />
         <meta property='og:image:width' content='1200' />
         <meta property='og:image:height' content='627' />
     {/if}
