@@ -1,6 +1,6 @@
 <script>
     export let metadata = {};
-    const defaultBasePath = 'https://informacovid.opendatasicilia.it/';
+    const defaultBasePath = 'https://informacovid.opendatasicilia.it';
 </script>
 
 <svelte:head>
