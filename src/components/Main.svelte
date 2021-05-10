@@ -74,6 +74,20 @@
             </OpenTabs>
         </section>
     </PageSection>
+    <PageSection id='contattaci' title='Chi siamo'>
+        <section>
+            Siamo la comunità <a href='http://opendatasicilia.it/' target='_blank' rel='nofollow noopener'>Open Data Sicilia</a>,
+            da anni impegnata a diffondere  la cultura dell'open government e le
+            prassi dell'open data nel nostro territorio siciliano. Siamo accomunati dalla genuina volontà di
+            contribuire a migliorare la qualità della vita delle nostre comunità e vogliamo farlo con spirito di
+            collaborazione e concretezza.
+        </section>
+        <section class='mt-8'>
+            InformaCovid è rivolto principalmente ai sindaci delle città italiane, ma non solo. Associazioni,
+            scuole, testate giornalistiche, praticamente chiunque sia in possesso di dati COVID19, provenienti da
+            fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione alla cittadinanza.
+        </section>
+    </PageSection>
 </main>
 
 <style lang='postcss'>

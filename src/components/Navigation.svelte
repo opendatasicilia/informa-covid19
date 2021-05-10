@@ -12,7 +12,7 @@
         <a use:scrollTo={'#esperienze'} class='nav-item-link' href='#esperienze'>Esperienze</a>
     </li>
     <li class='nav-item'>
-        <Button variant='primary-light'>Contattaci</Button>
+        <Button scrollTo={'#contattaci'} variant='primary-light'>Contattaci</Button>
     </li>
 </ul>
 
