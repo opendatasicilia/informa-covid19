@@ -19,7 +19,8 @@
             <img class='md:hidden' src={dashboardMobile} alt='Immagine di una dashboard'>
         </div>
         <section class='mt-8'>
-            InformaCovid è una cassetta degli attrezzi contenente strumenti digitali gratuiti, che proponiamo a tutti
+            <strong>InformaCovid</strong> è una cassetta degli attrezzi contenente strumenti digitali gratuiti, che
+            proponiamo a tutti
             i comuni che vorranno aderire alla nostra iniziativa per fornire alla propria comunità un'informazione
             puntuale e di qualità. La cittadinanza avrà a disposizione una dashboard interattiva, aggiornata
             dinamicamente, attraverso cui visualizzare l'andamento dei contagi della propria città tramite PC, tablet e
@@ -40,7 +41,7 @@
     </PageSection>
     <PageSection id='esperienze' title='Esperienze'>
         <section class='mt-8'>
-            InformaCovid è rivolto principalmente ai sindaci delle città italiane, ma non solo. Associazioni,
+            <strong>InformaCovid</strong> è rivolto principalmente ai sindaci delle città italiane, ma non solo. Associazioni,
             scuole, testate giornalistiche, praticamente chiunque sia in possesso di dati COVID19, provenienti da
             fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione alla cittadinanza.
         </section>
@@ -76,16 +77,22 @@
     </PageSection>
     <PageSection id='contattaci' title='Chi siamo'>
         <section>
-            Siamo la comunità <a href='http://opendatasicilia.it/' target='_blank' rel='nofollow noopener'>Open Data Sicilia</a>,
-            da anni impegnata a diffondere  la cultura dell'open government e le
+            Siamo la comunità <a class='underline' href='http://opendatasicilia.it/' target='_blank'
+                                 rel='nofollow noopener'>Open Data
+            Sicilia</a>,
+            da anni impegnata a diffondere la cultura dell'open government e le
             prassi dell'open data nel nostro territorio siciliano. Siamo accomunati dalla genuina volontà di
             contribuire a migliorare la qualità della vita delle nostre comunità e vogliamo farlo con spirito di
             collaborazione e concretezza.
         </section>
         <section class='mt-8'>
-            InformaCovid è rivolto principalmente ai sindaci delle città italiane, ma non solo. Associazioni,
+            <strong>InformaCovid</strong> è rivolto principalmente ai sindaci delle città italiane. Associazioni,
             scuole, testate giornalistiche, praticamente chiunque sia in possesso di dati COVID19, provenienti da
             fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione alla cittadinanza.
+            È anche possibile contribuire con idee, richieste e qualunque altro tipo di feedback
+            <a class='underline' target='_blank' rel='noopener nofollow'
+               href='https://github.com/opendatasicilia/informa-covid19/discussions'>
+                partecipando alla conversazione qui</a>.
         </section>
     </PageSection>
 </main>
