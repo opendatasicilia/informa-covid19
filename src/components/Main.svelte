@@ -18,44 +18,32 @@
             <img class='hidden md:block' src={dashboardDesktop} alt='Immagine di una dashboard'>
             <img class='md:hidden' src={dashboardMobile} alt='Immagine di una dashboard'>
         </div>
+        <section class='mt-8'>
+            InformaCovid è una cassetta degli attrezzi contenente strumenti digitali gratuiti, che proponiamo a tutti
+            i comuni che vorranno aderire alla nostra iniziativa per fornire alla propria comunità un'informazione
+            puntuale e di qualità. La cittadinanza avrà a disposizione una dashboard interattiva, aggiornata
+            dinamicamente, attraverso cui visualizzare l'andamento dei contagi della propria città tramite PC, tablet e
+            dispositivo mobile
+        </section>
     </PageSection>
     <PageSection id='come-funziona'
                  title='Come funziona'
                  subTitle='Gli strumenti del kit sono facili da usare e forniscono tutto quello che serve per comunicare alla cittadinanza.'>
         <section class='video'></section>
-        <section class='mt-8'>
+        <section class='my-8'>
             La soluzione che proponiamo utilizza strumenti gratuiti disponibili in rete e mettiamo a disposizione una
             video-guida per realizzarla. Inoltre è disponibile un tutorial per seguire passo-passo l'intera procedura di
             attivazione. In pochi semplici passaggi la piattaforma è disponibile e pronta per essere utilizzata. I
             servizi su cui si basa la soluzione proposta sono gratuiti e disponibili in rete.
         </section>
-        <section class='tabs'>
-            <OpenTabs>
-                <OpenTab title='Inserisci i dati con il Google Form'>
-                    <p>Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis,
-                        suspendisse.</p>
-                    <a slot='action' class='action' href='/#'>Crea il Form Google</a>
-                </OpenTab>
-                <OpenTab title='Comunica i dati con la tua dashboard'>
-                    <p>Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis,
-                        suspendisse.</p>
-                    <a slot='action' class='action' href='/#'>
-                        Crea la dashbaord con Google Data Studio
-                    </a>
-                </OpenTab>
-                <OpenTab title='Scopri il SiciliaCovid19Bot'>
-                    <p>Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis,
-                        suspendisse.</p>
-                    <a slot='action' class='action' href='/#'>
-                        Vai a CovidBot
-                    </a>
-                </OpenTab>
-            </OpenTabs>
-        </section>
+        <Button variant='highlight'>Scarica la Guida in PDF</Button>
     </PageSection>
-    <PageSection id='esperienze'
-                 title='Esperienze'
-                 subTitle='Le Amministrazioni che usano già Informa Covid'>
+    <PageSection id='esperienze' title='Esperienze'>
+        <section class='mt-8'>
+            InformaCovid è rivolto principalmente ai sindaci delle città italiane, ma non solo. Associazioni,
+            scuole, testate giornalistiche, praticamente chiunque sia in possesso di dati COVID19, provenienti da
+            fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione alla cittadinanza.
+        </section>
         <section class='tabs'>
             <OpenTabs>
                 <OpenTab>
