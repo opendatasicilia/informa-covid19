@@ -9,7 +9,12 @@
         </li>
         <li>
             <h3>Chi siamo</h3>
-            <p>Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis, suspendisse.</p>
+            <p>
+                Siamo la comunità <a href='http://opendatasicilia.it/'>Open Data Sicilia</a>, da anni impegnata a diffondere la cultura dell'open government e le
+                prassi dell'open data nel nostro territorio siciliano. Siamo accomunati dalla genuina volontà di
+                contribuire a migliorare la qualità della vita delle nostre comunità e vogliamo farlo con spirito di
+                collaborazione e concretezza.
+            </p>
         </li>
         <li>
             <h3>Licenza</h3>
