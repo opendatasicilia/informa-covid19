@@ -24,7 +24,7 @@
 
     .sub-title {
         @apply leading-6 mx-auto py-3;
-        @apply md:leading-7 md:text-xl md:max-w-lg;
+        @apply md:leading-7 md:text-xl md:max-w-xl;
     }
 
     .title {

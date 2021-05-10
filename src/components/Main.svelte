@@ -23,6 +23,12 @@
                  title='Come funziona'
                  subTitle='Gli strumenti del kit sono facili da usare e forniscono tutto quello che serve per comunicare alla cittadinanza.'>
         <section class='video'></section>
+        <section class='mt-8'>
+            La soluzione che proponiamo utilizza strumenti gratuiti disponibili in rete e mettiamo a disposizione una
+            video-guida per realizzarla. Inoltre è disponibile un tutorial per seguire passo-passo l'intera procedura di
+            attivazione. In pochi semplici passaggi la piattaforma è disponibile e pronta per essere utilizzata. I
+            servizi su cui si basa la soluzione proposta sono gratuiti e disponibili in rete.
+        </section>
         <section class='tabs'>
             <OpenTabs>
                 <OpenTab title='Inserisci i dati con il Google Form'>
