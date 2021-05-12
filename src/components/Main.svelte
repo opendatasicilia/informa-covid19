@@ -40,7 +40,10 @@
             attivazione. In pochi semplici passaggi la piattaforma è disponibile e pronta per essere utilizzata. I
             servizi su cui si basa la soluzione proposta sono gratuiti e disponibili in rete.
         </section>
-        <Button variant='highlight'>Scarica la Guida in PDF</Button>
+        <Button href='https://github.com/opendatasicilia/informa-covid19/blob/main/risorse/informa-covid-guida.pdf'
+                target='_blank'
+                variant='highlight'>Vai alla Guida in PDF
+        </Button>
     </PageSection>
     <PageSection id='esperienze' title='Esperienze'>
         <section class='tabs'>
