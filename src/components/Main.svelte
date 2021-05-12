@@ -4,6 +4,7 @@
     import exampleCate from '../assets/catenanuova-600x600.png'
     import exampleRega from '../assets/regalbuto-600x600.png'
     import exampleSerra from '../assets/serradifalco-600x600.png'
+    import youtubeCover from '../assets/informa-covid-youtube-cover.png'
     import Button from './ui/Button.svelte'
     import OpenTab from './ui/OpenTab.svelte'
     import OpenTabs from './ui/OpenTabs.svelte'
@@ -30,7 +31,9 @@
     <PageSection id='come-funziona'
                  title='Come funziona'
                  subTitle='Gli strumenti del kit sono facili da usare e forniscono tutto quello che serve per comunicare alla cittadinanza.'>
-        <section class='video'></section>
+        <section class='video'>
+            <img src={youtubeCover} alt='Informa Covid Video preview'>
+        </section>
         <section class='my-8'>
             La soluzione che proponiamo utilizza strumenti gratuiti disponibili in rete e mettiamo a disposizione una
             video-guida per realizzarla. Inoltre è disponibile un tutorial per seguire passo-passo l'intera procedura di
@@ -110,9 +113,6 @@
     }
 
     .video {
-        @apply mx-auto hidden md:block;
-        background: lightgray;
-        height: 400px;
-        width: 800px;
+        @apply border mx-auto;
     }
 </style>
