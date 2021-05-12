@@ -4,7 +4,7 @@
     import exampleCate from '../assets/catenanuova-600x600.png'
     import exampleRega from '../assets/regalbuto-600x600.png'
     import exampleSerra from '../assets/serradifalco-600x600.png'
-    import youtubeCover from '../assets/informa-covid-youtube-cover.png'
+    import youtubeCover from '../assets/informa-covid-youtube-cover-mobile.png'
     import Button from './ui/Button.svelte'
     import OpenTab from './ui/OpenTab.svelte'
     import OpenTabs from './ui/OpenTabs.svelte'
@@ -32,7 +32,13 @@
                  title='Come funziona'
                  subTitle='Gli strumenti del kit sono facili da usare e forniscono tutto quello che serve per comunicare alla cittadinanza.'>
         <section class='video'>
-            <img src={youtubeCover} alt='Informa Covid Video preview'>
+            <iframe class='hidden md:block' width='100%' height='500' src='https://www.youtube.com/embed/gVvy9KQune0'
+                    title='Informa Covid guida video' frameborder='0'
+                    allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
+                    allowfullscreen></iframe>
+            <a href='https://www.youtube.com/embed/gVvy9KQune0' class='md:hidden' target='_blank'>
+                <img src={youtubeCover} alt='Informa Covid Video preview'>
+            </a>
         </section>
         <section class='my-8'>
             La soluzione che proponiamo utilizza strumenti gratuiti disponibili in rete e mettiamo a disposizione una
