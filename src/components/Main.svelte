@@ -40,11 +40,6 @@
         <Button variant='highlight'>Scarica la Guida in PDF</Button>
     </PageSection>
     <PageSection id='esperienze' title='Esperienze'>
-        <section class='mt-8'>
-            <strong>InformaCovid</strong> è rivolto principalmente ai sindaci delle città italiane, ma non solo. Associazioni,
-            scuole, testate giornalistiche, praticamente chiunque sia in possesso di dati COVID19, provenienti da
-            fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione alla cittadinanza.
-        </section>
         <section class='tabs'>
             <OpenTabs>
                 <OpenTab>
@@ -98,10 +93,6 @@
 </main>
 
 <style lang='postcss'>
-    .action {
-        @apply text-secondary;
-    }
-
     .dashboard {
         @apply flex justify-center mt-16;
     }
