@@ -1,7 +1,7 @@
 <script>
     import { scrollTo } from './actions/scrollTo';
 
-    import Button from './ui/Button.svelte'
+    import Button from './ui/Button.svelte';
 </script>
 
 <ul>
@@ -21,7 +21,7 @@
 
 <style lang='postcss'>
     ul {
-        @apply grid grid-cols-4;
+        @apply grid grid-cols-3 gap-0;
     }
 
     .nav-item {

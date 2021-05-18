@@ -1,14 +1,16 @@
 <script>
+    import covidBotMockup from '../assets/mockup_bot@2x.png';
     import dashboardDesktop from '../assets/dashboard-desktop.svg';
-    import dashboardMobile from '../assets/dashboard-mobile.svg'
-    import exampleCate from '../assets/catenanuova-600x600.png'
-    import exampleRega from '../assets/regalbuto-600x600.png'
-    import exampleSerra from '../assets/serradifalco-600x600.png'
-    import youtubeCover from '../assets/informa-covid-youtube-cover-mobile.png'
-    import Button from './ui/Button.svelte'
-    import OpenTab from './ui/OpenTab.svelte'
-    import OpenTabs from './ui/OpenTabs.svelte'
-    import PageSection from './ui/PageSection.svelte'
+    import dashboardMobile from '../assets/dashboard-mobile.svg';
+    import dashboardMockup from '../assets/mockup-dashboard-mobile-desktop@2x.png';
+    import exampleCate from '../assets/catenanuova-logo.png';
+    import exampleRega from '../assets/regalbuto-logo.png';
+    import exampleSerra from '../assets/serradifalco-logo.png';
+    import youtubeCover from '../assets/informa-covid-youtube-cover-mobile.png';
+    import Button from './ui/Button.svelte';
+    import OpenTab from './ui/OpenTab.svelte';
+    import OpenTabs from './ui/OpenTabs.svelte';
+    import PageSection from './ui/PageSection.svelte';
 </script>
 
 <main class='main'>
@@ -54,23 +56,28 @@
     </PageSection>
     <PageSection id='esperienze' title='Esperienze'>
         <section class='mt-8'>
-            <strong>InformaCovid</strong> è rivolto principalmente ai sindaci delle città italiane, <strong>ma non solo</strong>. Associazioni, scuole, testate giornalistiche, praticamente chiunque sia in possesso di dati COVID19, provenienti da fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione alla cittadinanza. Di seguito i primi comuni che hanno aderito a <strong>InformaCovid</strong>.
+            <strong>InformaCovid</strong> è rivolto principalmente ai sindaci delle città italiane, <strong>ma non
+            solo</strong>. Associazioni, scuole, testate giornalistiche, praticamente chiunque sia in possesso di dati
+            COVID19, provenienti da fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione
+            alla cittadinanza. Di seguito i primi comuni che hanno aderito a <strong>InformaCovid</strong>.
         </section>
 
         <section class='tabs'>
             <OpenTabs>
                 <OpenTab>
                     <div>
-                        <a class='experience' target='_blank' rel='noopener nofollow' href='https://newsl.ink/dashboardregalbuto'>
-                            <img src={exampleRega} alt=''>
+                        <a class='experience' target='_blank' rel='noopener nofollow'
+                           href='https://newsl.ink/dashboardregalbuto'>
+                            <img src={exampleRega} alt='' class='h-32 m-auto w-32'>
                             <p>Regalbuto (EN)</p>
                         </a>
                     </div>
                 </OpenTab>
                 <OpenTab>
                     <div>
-                        <a class='experience' target='_blank' rel='noopener nofollow' href='https://notizie.link/dashboardcatenanuova'>
-                            <img src={exampleCate} alt=''>
+                        <a class='experience' target='_blank' rel='noopener nofollow'
+                           href='https://notizie.link/dashboardcatenanuova'>
+                            <img src={exampleCate} alt='' class='h-32 m-auto w-32'>
                             <p>Catenanuova (EN)</p>
                         </a>
                     </div>
@@ -79,7 +86,7 @@
                     <div>
                         <a class='experience' target='_blank' rel='noopener nofollow'
                            href='https://datastudio.google.com/reporting/45ec94b1-32f0-489e-b882-977c12af81d4'>
-                            <img src={exampleSerra} alt=''>
+                            <img src={exampleSerra} alt='' class='h-32 m-auto w-32'>
                             <p>Serradifalco (CL)</p>
                         </a>
                     </div>
@@ -87,28 +94,56 @@
             </OpenTabs>
         </section>
     </PageSection>
+    <PageSection title='Informa Covid Dashboard'>
+        <section class='examples'>
+            <img src={dashboardMockup} alt='Immagine di una dashboard'>
+            <article class='place-self-center'>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore est inventore ipsum omnis sunt
+                voluptatibus. Animi dolorum eaque ipsa maiores, minus molestiae omnis placeat quibusdam quis sint ut
+                voluptatem voluptatum.
+            </article>
+        </section>
+    </PageSection>
+    <PageSection title='CovidBot'>
+        <section class='examples'>
+            <article class='place-self-center text-right'>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore est inventore ipsum omnis sunt
+                voluptatibus. Animi dolorum eaque ipsa maiores, minus molestiae omnis placeat quibusdam quis sint ut
+                voluptatem voluptatum.
+            </article>
+            <img src={covidBotMockup} alt='Immagine di uno smartphone'>
+        </section>
+    </PageSection>
     <PageSection id='contattaci' title='Chi siamo'>
-        <section>
-            Siamo la comunità <a class='underline' href='http://opendatasicilia.it/' target='_blank'
-                                 rel='nofollow noopener'>Open Data
-            Sicilia</a>,
+        <p>
+            Siamo la comunità
+            <a class='underline' href='http://opendatasicilia.it/' target='_blank' rel='nofollow noopener'>
+                Open Data Sicilia</a>,
             da anni impegnata a diffondere la cultura dell'open government e le
             prassi dell'open data nel nostro territorio siciliano. Siamo accomunati dalla genuina volontà di
             contribuire a migliorare la qualità della vita delle nostre comunità e vogliamo farlo con spirito di
             collaborazione e concretezza.
-        </section>
-    </PageSection>
+        </p>
 
-    <PageSection id='contattaci' title='Contattaci'>
-        <section>
-            InformaCovid è un prodotto gratuito e che noi, come comunità, non vendiamo né servizi né consulenze. Tuttavia, per qualsiasi dubbio, chiarimento e/o supporto (sempre gratuito), non esitate a contattarci. Come comunità saremo lieti di potervi dare il nostro aiuto attraverso il nostro <a class='underline' target='_blank' rel='noopener nofollow' href='https://github.com/opendatasicilia/informa-covid19/discussions/4'>spazio di discussione</a>.
+        <p>
+            InformaCovid è un prodotto gratuito e che noi, come comunità, non vendiamo né servizi né consulenze.
+            Tuttavia, per qualsiasi dubbio, chiarimento e/o supporto (sempre gratuito), non esitate a contattarci.
+            Come comunità saremo lieti di potervi dare il nostro aiuto attraverso il nostro
+            <a class='underline'
+               target='_blank'
+               rel='noopener nofollow' href='https://github.com/opendatasicilia/informa-covid19/discussions/4'>spazio di
+                discussione</a>.
             È anche possibile contribuire con idee, richieste e qualunque altro tipo di feedback.
-        </section>
+        </p>
     </PageSection>
-
 </main>
 
 <style lang='postcss'>
+    .examples {
+        @apply mx-auto max-w-xs;
+        @apply md:grid md:grid-cols-2 md:gap-24 md:text-left md:max-w-full;
+    }
+
     .dashboard {
         @apply flex justify-center mt-16;
     }
