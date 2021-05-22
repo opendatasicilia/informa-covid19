@@ -23,7 +23,7 @@
             <img class='md:hidden' src={dashboardMobile} alt='Immagine di una dashboard'>
         </div>
         <section class='mt-8'>
-            <strong>InformaCovid</strong> è una cassetta degli attrezzi contenente strumenti digitali gratuiti, che
+            <strong>InformaCOVID</strong> è una cassetta degli attrezzi contenente strumenti digitali gratuiti, che
             proponiamo a tutti
             i comuni che vorranno aderire alla nostra iniziativa per fornire alla propria comunità un'informazione
             puntuale e di qualità. La cittadinanza avrà a disposizione una dashboard interattiva, aggiornata
@@ -56,10 +56,10 @@
     </PageSection>
     <PageSection id='esperienze' title='Esperienze'>
         <section class='mt-8'>
-            <strong>InformaCovid</strong> è rivolto principalmente ai sindaci delle città italiane, <strong>ma non
+            <strong>InformaCOVID</strong> è rivolto principalmente ai sindaci delle città italiane, <strong>ma non
             solo</strong>. Associazioni, scuole, testate giornalistiche, praticamente chiunque sia in possesso di dati
             COVID19, provenienti da fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione
-            alla cittadinanza. Di seguito i primi comuni che hanno aderito a <strong>InformaCovid</strong>.
+            alla cittadinanza. Di seguito i primi comuni che hanno aderito a <strong>InformaCOVID</strong>.
         </section>
 
         <section class='tabs'>
@@ -98,35 +98,27 @@
         <section class='examples'>
             <img src={dashboardMockup} alt='Immagine di una dashboard'>
             <article class='place-self-center'>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore est inventore ipsum omnis sunt
-                voluptatibus. Animi dolorum eaque ipsa maiores, minus molestiae omnis placeat quibusdam quis sint ut
-                voluptatem voluptatum.
+                Con InformaCOVID potrai realizzare in pochi  semplici passi una dashboard
+                completa, dinamica e interattiva attraverso cui monitorare, tramite grafici, curve e dati,
+                l'andamento dei contagi COVID19 del proprio territorio.
             </article>
         </section>
     </PageSection>
     <PageSection title='CovidBot'>
         <section class='examples'>
             <article class='place-self-center text-right'>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore est inventore ipsum omnis sunt
-                voluptatibus. Animi dolorum eaque ipsa maiores, minus molestiae omnis placeat quibusdam quis sint ut
-                voluptatem voluptatum.
+                <strong>CovidBOT</strong> è un BOT Telegram, cioè un risponditore automatico che riusa i dati aperti
+                del progetto InformaCOVID e consente di interagire con essi in modo facile e instantaneo, attraverso
+                comandi inviati tramite messaggi via chat. Il BOT è disponibile via Web, desktop e mobile
+                ed è raggiungibile a questo <a class='experience' target='_blank' rel='noopener nofollow' href='https://t.me/Covid_19_Sicilia_Bot'><strong>link</strong></a>.
             </article>
             <img src={covidBotMockup} alt='Immagine di uno smartphone'>
         </section>
     </PageSection>
-    <PageSection id='contattaci' title='Chi siamo'>
+    <PageSection id='contattaci' title='Contattaci'>
         <p>
-            Siamo la comunità
-            <a class='underline' href='http://opendatasicilia.it/' target='_blank' rel='nofollow noopener'>
-                Open Data Sicilia</a>,
-            da anni impegnata a diffondere la cultura dell'open government e le
-            prassi dell'open data nel nostro territorio siciliano. Siamo accomunati dalla genuina volontà di
-            contribuire a migliorare la qualità della vita delle nostre comunità e vogliamo farlo con spirito di
-            collaborazione e concretezza.
-        </p>
-
-        <p>
-            InformaCovid è un prodotto gratuito e che noi, come comunità, non vendiamo né servizi né consulenze.
+            <strong>InformaCOVID</strong> è un progetto di <a class='underline' href='http://opendatasicilia.it/' target='_blank' rel='nofollow noopener'>Open Data Sicilia</a> da anni impegnata a diffondere la cultura dell'open government e le prassi dell'open data nel nostro territorio siciliano.
+            InformaCOVID è un prodotto gratuito e noi, come comunità, non vendiamo né servizi né consulenze.
             Tuttavia, per qualsiasi dubbio, chiarimento e/o supporto (sempre gratuito), non esitate a contattarci.
             Come comunità saremo lieti di potervi dare il nostro aiuto attraverso il nostro
             <a class='underline'

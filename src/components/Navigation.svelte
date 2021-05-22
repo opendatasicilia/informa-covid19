@@ -21,7 +21,7 @@
 
 <style lang='postcss'>
     ul {
-        @apply grid grid-cols-3 gap-0;
+        @apply grid grid-cols-4 gap-0;
     }
 
     .nav-item {
