@@ -110,7 +110,7 @@
                 <strong>CovidBOT</strong> è un BOT Telegram, cioè un risponditore automatico che riusa i dati aperti
                 del progetto InformaCOVID e consente di interagire con essi in modo facile e instantaneo, attraverso
                 comandi inviati tramite messaggi via chat. Il BOT è disponibile via Web, desktop e mobile
-                ed è raggiungibile a questo <a class='experience' target='_blank' rel='noopener nofollow' href='https://t.me/Covid_19_Sicilia_Bot'><strong>link</strong></a>.
+                ed è raggiungibile a questo <a target='_blank' rel='noopener nofollow' href='https://t.me/Covid_19_Sicilia_Bot'><strong>link</strong></a>.
             </article>
             <img src={covidBotMockup} alt='Immagine di uno smartphone'>
         </section>
