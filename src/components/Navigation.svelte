@@ -1,7 +1,7 @@
 <script>
     import { scrollTo } from './actions/scrollTo';
 
-    import Button from './ui/Button.svelte';
+    import Button from './ui/Button.svelte'
 </script>
 
 <ul>
@@ -21,10 +21,10 @@
 
 <style lang='postcss'>
     ul {
-        @apply grid grid-cols-4 gap-0;
+        @apply flex;
     }
 
     .nav-item {
-        @apply self-center;
+        @apply self-center mx-8;
     }
 </style>
