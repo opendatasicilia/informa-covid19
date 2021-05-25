@@ -40,3 +40,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2021-05-18,EN,086006,Catenanuova,14.691819,14.691819,,,3,21,24,-1,0,93,0,117,,,,,,
 2021-05-19,EN,086006,Catenanuova,14.691819,14.691819,,,2,20,22,-2,0,95,0,117,,,Soggetti vaccinati 922,,,
 2021-05-22,EN,086006,Catenanuova,14.691819,14.691819,,,2,20,22,0,0,95,0,117,,,,,,
+2021-05-25,EN,086006,Catenanuova,14.691819,14.691819,,,0,24,24,2,6,99,0,123,,,,,,
