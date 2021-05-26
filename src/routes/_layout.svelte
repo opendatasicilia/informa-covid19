@@ -1,7 +1,8 @@
 <script>
-    // export let segment;
+    import Analytics from '../components/Analytics.svelte'
 </script>
 
+<Analytics/>
 <main>
     <slot />
 </main>
