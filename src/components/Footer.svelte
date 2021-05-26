@@ -1,5 +1,16 @@
 <script>
     import ods from '../assets/logo-ods-white.svg';
+
+    function set() {
+        localStorage.setItem('opt','out');
+        window.location.reload();
+    }
+
+    function remove() {
+        localStorage.removeItem('opt');
+        window.location.reload();
+    }
+
 </script>
 
 <footer>
@@ -35,6 +46,19 @@
             </p>
         </li>
     </ul>
+    <div class='analytics'>
+        <p>
+            Google Analytics tracks number of visitors<br/>
+            You can 
+            {#if process.browser}
+                {#if localStorage.getItem('opt') === null}
+                    <button on:click={() => set()}>opt out.</button>
+                {:else}
+                    <button on:click={() => remove()}>opt in.</button>
+                {/if}
+            {/if}
+        </p>
+    </div>
 </footer>
 
 <style>
@@ -66,5 +90,9 @@
 
     .logo img {
         @apply w-full;
+    }
+
+    .analytics {
+        @apply text-center
     }
 </style>

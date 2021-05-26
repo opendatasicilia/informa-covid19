@@ -1,5 +1,4 @@
 <script>
-    import { stores } from '@sapper/app';
     import Analytics from '../components/Analytics.svelte'
 </script>
 
