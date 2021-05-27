@@ -1,16 +1,6 @@
 <script>
     import ods from '../assets/logo-ods-white.svg';
-
-    function set() {
-        localStorage.setItem('opt','out');
-        window.location.reload();
-    }
-
-    function remove() {
-        localStorage.removeItem('opt');
-        window.location.reload();
-    }
-
+    import { remove, set } from '../components/actions/optOut'
 </script>
 
 <footer>
@@ -47,7 +37,7 @@
         </li>
     </ul>
     <div class='analytics'>
-        <p>
+        <small>
             Google Analytics tracks number of visitors<br/>
             You can 
             {#if process.browser}
@@ -57,7 +47,7 @@
                     <button on:click={() => remove()}>opt in.</button>
                 {/if}
             {/if}
-        </p>
+        </small>
     </div>
 </footer>
 
@@ -94,5 +84,8 @@
 
     .analytics {
         @apply text-center
+    }
+    button {
+        @apply underline
     }
 </style>
