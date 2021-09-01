@@ -18,3 +18,5 @@
   URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRXnUM3MzQFHGuubIWljU74Bu5RxxsKuQU8mFjMMjCYB2PFhb1zBsZ5PXbFxqP9eLOSP39SIP8TPLTd/pub?gid=1116770854&single=true&output=csv
 - comune_codice_istat: 086005
   URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRXnUM3MzQFHGuubIWljU74Bu5RxxsKuQU8mFjMMjCYB2PFhb1zBsZ5PXbFxqP9eLOSP39SIP8TPLTd/pub?gid=1312444582&single=true&output=csv
+- comune_codice_istat: 086004
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQvta9EO6pgXuhDOX83u0nBpJfMfviRm7Uij_H--VH-z7RsDWLi_nU-tKYLplAUTuHRX4AkhhVWEDor/pub?gid=1330079290&single=true&output=csv
