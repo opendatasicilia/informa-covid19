@@ -8,9 +8,7 @@
 ### Contenuti
 
 - [InformaCovid](#informacovid)
-    - [Form](#form)
-    - [Schema dati](#schema-dati)
-    - [Template dashboard](#template-dashboard)
+    - [Processo di pubblicazione](#processo-di-pubblicazione)
     - [Esempi d'uso](#esempi-duso)
 - [Landing Page](#landing-page)
     - [Sviluppo locale](#sviluppo-locale)
@@ -19,7 +17,7 @@
 
 ---
 
-# InformaCovid
+# InformaCOVID
 
 Buone pratiche di comunicazione pubblica dei dati COVID19 da parte dei comuni
 
@@ -27,23 +25,26 @@ InformaCOVID19 è una cassetta degli attrezzi (_toolkit_) per le buone pratiche 
 
 Il _kit_ comprende:
 
-- [Un form](#form) attraverso il quale è possibil inserire dati
-- [Uno schema dati](#schema-dati)
-- [Una template dashboard](#template-dashboard) per visualizzare i dati
+- Un form attraverso il quale è possibil inserire dati
+- Uno [schema dati](https://github.com/opendatasicilia/informa-covid19/blob/main/dati/informacovid/informacovid_schema.yaml)
+- Una template dashboard per visualizzare i dati
 
-InformaCovid è già utilizzato da alcune Amministrazioni Pubbliche. Guarda degli [esempi](#esempi-d-uso).
+### Processo di pubblicazione
 
-### Form
+Il processo di comunicazione, elaborazione, pubblicazione e visualizzazione dei dati è di seguito descritto:
+![Documentazione](https://user-images.githubusercontent.com/77018886/131860826-d7786bf1-796f-4f86-ada1-cdbf662f4271.png)
+È bene sottolineare che tale processo risulta essere estremamente flessibile e facilmente adattabile ad associazioni, scuole, testate giornalistiche: praticamente chiunque sia in possesso di dati COVID19, provenienti da fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione alla cittadinanza.
 
-### Schema dati
-
-### Template dashboard
+L'aggiornamento dei dati (che è possibile trovare in [questa cartella](https://github.com/opendatasicilia/informa-covid19/tree/main/dati/informacovid)) avviene a seguito dell'esecuzione giornaliera di [questo script](https://github.com/opendatasicilia/informa-covid19/blob/main/script/informacovid/informacovid.sh) `bash`. [Qui](https://github.com/opendatasicilia/informa-covid19/blob/main/script/informacovid/README.md) maggiori informazioni.
 
 ### Esempi d'uso
+
+InformaCOVID è già utilizzato da alcune Amministrazioni Pubbliche e testate giornalistiche. Guarda degli esempi:
 
 - [Comune di Catenanuova (EN)](https://notizie.link/dashboardcatenanuova)
 - [Comune di Regalbuto (EN)](https://newsl.ink/dashboardregalbuto)
 - [Comune di Serradifalco (CL)](https://datastudio.google.com/reporting/45ec94b1-32f0-489e-b882-977c12af81d4)
+- [Comune di Barrafranca (EN)](https://notizie.link/barrafranca-informacovid)
 
 ---
 
