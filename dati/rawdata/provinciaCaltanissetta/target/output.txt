@@ -1,0 +1,93 @@
+denominazione_comune,terapia_intensiva,malattie_infettive,positivi_quarantena_domiciliare,ricoverati_altrove,guariti_clinicamente,guariti_da_covid,deceduti_in_provincia,deceduti_fuori_provincia,data
+Acquaviva Platani,,,,,,10,,,
+Bompensiere,,,,,,18,1,,
+Butera,,,,,,81,,,
+Campofranco,,1,,,,40,2,,
+Catanissetta,3,43,430,1,,1174,27,1,
+Delia,1,,14,,,31,,,
+Gela,1,7,50,3,,2786,62,,
+Marianopoli,,,,,,6,1,,
+Mazzarino,,,18,,,192,3,,
+Milena,1,,10,,,142,5,,
+Montedoro,,,22,,,49,3,,
+Mussomeli,,1,31,,,168,4,1,
+Niscemi,,1,72,,,999,20,,
+Resuttano,,,4,,,54,,,
+Riesi,,3,44,1,,207,6,,
+San Cataldo,,2,44,,,563,9,,
+Santa Caterina Villarmosa,,,7,,,62,1,,
+Serradifalco,,2,56,,,91,1,,
+Sommatino,,,14,,,49,3,,
+Sutera,,,1,,,3,,,
+Vallelunga Pratameno,,1,15,,,23,,,
+Villalba,,,15,,,29,,,
+altreProvince,,2,,2,14,46,25,,
+Acquaviva Platani,,,,,,10,,,2021-03-24
+Bompensiere,,,,,,18,1,,2021-03-24
+Butera,,,,,,81,,,2021-03-24
+Campofranco,,1,,,,40,2,,2021-03-24
+Catanissetta,2,46,440,1,,1189,28,1,2021-03-24
+Delia,1,,14,,,31,,,2021-03-24
+Gela,1,6,39,3,,2798,62,,2021-03-24
+Marianopoli,,,,,,6,1,,2021-03-24
+Mazzarino,,,18,,,192,3,,2021-03-24
+Milena,1,,10,,,142,5,,2021-03-24
+Montedoro,,,21,,,50,3,,2021-03-24
+Mussomeli,,,31,,,169,4,1,2021-03-24
+Niscemi,,,69,,,1005,21,,2021-03-24
+Resuttano,,,4,,,54,,,2021-03-24
+Riesi,,3,39,1,,212,6,,2021-03-24
+San Cataldo,,1,40,,,570,9,,2021-03-24
+Santa Caterina Villarmosa,,,8,,,62,1,,2021-03-24
+Serradifalco,,2,62,,,92,1,,2021-03-24
+Sommatino,,,18,,,50,3,,2021-03-24
+Sutera,,,1,,,3,,,2021-03-24
+Vallelunga Pratameno,,1,14,,,24,,,2021-03-24
+Villalba,,,14,,,30,,,2021-03-24
+altreProvince,,2,,2,14,46,25,,2021-03-24
+Acquaviva Platani,,,1,,,42,,,2021-09-03
+Bompensiere,,,,,,34,1,,2021-09-03
+Butera,,,18,,,128,,,2021-09-03
+Caltanissetta,,13,155,,,2846,50,1,2021-09-03
+Campofranco,,1,43,,,85,3,,2021-09-03
+Delia,,1,1,,,96,3,,2021-09-03
+Gela,2,10,439,,,5786,87,1,2021-09-03
+Marianopoli,,,,,,72,3,,2021-09-03
+Mazzarino,,1,39,,,823,5,1,2021-09-03
+Milena,,,2,,,156,6,,2021-09-03
+Montedoro,,,,,,84,4,,2021-09-03
+Mussomeli,,,30,,,349,4,1,2021-09-03
+Niscemi,2,18,596,,,2061,31,,2021-09-03
+Resuttano,,,,,,86,,,2021-09-03
+Riesi,,2,21,,,732,8,,2021-09-03
+San Cataldo,,1,31,,,934,17,,2021-09-03
+Santa Caterina Villarmosa,,,21,1,,244,2,,2021-09-03
+Serradifalco,,1,25,,,282,4,,2021-09-03
+Sommatino,,,45,1,,171,4,,2021-09-03
+Sutera,,,,,,5,,,2021-09-03
+Vallelunga Pratameno,,1,1,,,82,,,2021-09-03
+Villalba,,,,,,51,,,2021-09-03
+altreProvince,,4,,,,56,30,,2021-09-03
+Acquaviva Platani,,,2,,,42,,,2021-09-04
+Bompensiere,,,,,,34,1,,2021-09-04
+Butera,,,19,,,130,,,2021-09-04
+Caltanissetta,,13,162,,,2855,50,1,2021-09-04
+Campofranco,,1,30,,,102,3,,2021-09-04
+Delia,,,2,,,96,3,,2021-09-04
+Gela,2,11,418,,,5836,87,1,2021-09-04
+Marianopoli,,,,,,72,3,,2021-09-04
+Mazzarino,,2,34,,,829,5,1,2021-09-04
+Milena,,,2,,,156,6,,2021-09-04
+Montedoro,,,,,,84,4,,2021-09-04
+Mussomeli,,1,27,,,351,4,1,2021-09-04
+Niscemi,2,19,568,,,2111,31,,2021-09-04
+Resuttano,,,,,,86,,,2021-09-04
+Riesi,,2,13,,,740,8,,2021-09-04
+San Cataldo,,1,38,,,936,17,,2021-09-04
+Santa Caterina Villarmosa,,,21,1,,244,2,,2021-09-04
+Serradifalco,,1,24,,,283,4,,2021-09-04
+Sommatino,,,45,1,,171,4,,2021-09-04
+Sutera,,,,,,5,,,2021-09-04
+Vallelunga Pratameno,,1,1,,,82,,,2021-09-04
+Villalba,,,,,,51,,,2021-09-04
+altreProvince,,3,,,,57,30,,2021-09-04
