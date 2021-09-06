@@ -1,4 +1,27 @@
 denominazione_comune,terapia_intensiva,malattie_infettive,positivi_quarantena_domiciliare,ricoverati_altrove,guariti_clinicamente,guariti_da_covid,deceduti_in_provincia,deceduti_fuori_provincia,data
+Acquaviva Platani,,,,,,10,,,2021-03-23
+Bompensiere,,,,,,18,1,,2021-03-23
+Butera,,,,,,81,,,2021-03-23
+Campofranco,,1,,,,40,2,,2021-03-23
+Caltanissetta,3,43,430,1,,1174,27,1,2021-03-23
+Delia,1,,14,,,31,,,2021-03-23
+Gela,1,7,50,3,,2786,62,,2021-03-23
+Marianopoli,,,,,,6,1,,2021-03-23
+Mazzarino,,,18,,,192,3,,2021-03-23
+Milena,1,,10,,,142,5,,2021-03-23
+Montedoro,,,22,,,49,3,,2021-03-23
+Mussomeli,,1,31,,,168,4,1,2021-03-23
+Niscemi,,1,72,,,999,20,,2021-03-23
+Resuttano,,,4,,,54,,,2021-03-23
+Riesi,,3,44,1,,207,6,,2021-03-23
+San Cataldo,,2,44,,,563,9,,2021-03-23
+Santa Caterina Villarmosa,,,7,,,62,1,,2021-03-23
+Serradifalco,,2,56,,,91,1,,2021-03-23
+Sommatino,,,14,,,49,3,,2021-03-23
+Sutera,,,1,,,3,,,2021-03-23
+Vallelunga Pratameno,,1,15,,,23,,,2021-03-23
+Villalba,,,15,,,29,,,2021-03-23
+altreProvince,,2,,2,14,46,25,,2021-03-23
 Acquaviva Platani,,,,,,10,,,2021-03-24
 Bompensiere,,,,,,18,1,,2021-03-24
 Butera,,,,,,81,,,2021-03-24
