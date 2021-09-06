@@ -1,27 +1,4 @@
 denominazione_comune,terapia_intensiva,malattie_infettive,positivi_quarantena_domiciliare,ricoverati_altrove,guariti_clinicamente,guariti_da_covid,deceduti_in_provincia,deceduti_fuori_provincia,data
-Acquaviva Platani,,,,,,10,,,
-Bompensiere,,,,,,18,1,,
-Butera,,,,,,81,,,
-Campofranco,,1,,,,40,2,,
-Caltanissetta,3,43,430,1,,1174,27,1,
-Delia,1,,14,,,31,,,
-Gela,1,7,50,3,,2786,62,,
-Marianopoli,,,,,,6,1,,
-Mazzarino,,,18,,,192,3,,
-Milena,1,,10,,,142,5,,
-Montedoro,,,22,,,49,3,,
-Mussomeli,,1,31,,,168,4,1,
-Niscemi,,1,72,,,999,20,,
-Resuttano,,,4,,,54,,,
-Riesi,,3,44,1,,207,6,,
-San Cataldo,,2,44,,,563,9,,
-Santa Caterina Villarmosa,,,7,,,62,1,,
-Serradifalco,,2,56,,,91,1,,
-Sommatino,,,14,,,49,3,,
-Sutera,,,1,,,3,,,
-Vallelunga Pratameno,,1,15,,,23,,,
-Villalba,,,15,,,29,,,
-altreProvince,,2,,2,14,46,25,,
 Acquaviva Platani,,,,,,10,,,2021-03-24
 Bompensiere,,,,,,18,1,,2021-03-24
 Butera,,,,,,81,,,2021-03-24
