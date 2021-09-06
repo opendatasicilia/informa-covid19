@@ -3,7 +3,7 @@ Acquaviva Platani,,,,,,10,,,
 Bompensiere,,,,,,18,1,,
 Butera,,,,,,81,,,
 Campofranco,,1,,,,40,2,,
-Catanissetta,3,43,430,1,,1174,27,1,
+Caltanissetta,3,43,430,1,,1174,27,1,
 Delia,1,,14,,,31,,,
 Gela,1,7,50,3,,2786,62,,
 Marianopoli,,,,,,6,1,,
@@ -26,7 +26,7 @@ Acquaviva Platani,,,,,,10,,,2021-03-24
 Bompensiere,,,,,,18,1,,2021-03-24
 Butera,,,,,,81,,,2021-03-24
 Campofranco,,1,,,,40,2,,2021-03-24
-Catanissetta,2,46,440,1,,1189,28,1,2021-03-24
+Caltanissetta,2,46,440,1,,1189,28,1,2021-03-24
 Delia,1,,14,,,31,,,2021-03-24
 Gela,1,6,39,3,,2798,62,,2021-03-24
 Marianopoli,,,,,,6,1,,2021-03-24
