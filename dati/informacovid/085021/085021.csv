@@ -1,0 +1,6 @@
+data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
+2021-03-23,CL,085021,Vallelunga Pratameno,37.682047,13.83156,,0,1,15,16,,,23,0,39,,,,,,
+2021-03-24,CL,085021,Vallelunga Pratameno,37.682047,13.83156,,0,1,14,15,-1,0,24,0,39,,,,,,
+2021-09-03,CL,085021,Vallelunga Pratameno,37.682047,13.83156,,0,1,1,2,-13,45,82,0,84,,,,,,
+2021-09-04,CL,085021,Vallelunga Pratameno,37.682047,13.83156,,0,1,1,2,0,0,82,0,84,,,,,,
+2021-09-05,CL,085021,Vallelunga Pratameno,37.682047,13.83156,,0,1,0,1,-1,0,83,0,84,,,,,,

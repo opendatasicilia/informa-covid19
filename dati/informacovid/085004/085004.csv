@@ -1,0 +1,6 @@
+data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
+2021-03-23,CL,085004,Caltanissetta,37.489941,14.063162,,3,47,430,477,,,1174,28,1679,,,,,,
+2021-03-24,CL,085004,Caltanissetta,37.489941,14.063162,,2,49,440,489,12,28,1189,29,1707,,,,,,
+2021-09-03,CL,085004,Caltanissetta,37.489941,14.063162,,0,13,155,168,-321,1358,2846,51,3065,,,,,,
+2021-09-04,CL,085004,Caltanissetta,37.489941,14.063162,,0,13,162,175,7,16,2855,51,3081,,,,,,
+2021-09-05,CL,085004,Caltanissetta,37.489941,14.063162,,0,13,159,172,-3,1,2858,52,3082,,,,,,

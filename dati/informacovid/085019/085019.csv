@@ -1,0 +1,6 @@
+data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
+2021-03-23,CL,085019,Sommatino,37.334022,13.992959,,0,0,14,14,,,49,3,66,,,,,,
+2021-03-24,CL,085019,Sommatino,37.334022,13.992959,,0,0,18,18,4,5,50,3,71,,,,,,
+2021-09-03,CL,085019,Sommatino,37.334022,13.992959,,0,1,45,46,28,150,171,4,221,,,,,,
+2021-09-04,CL,085019,Sommatino,37.334022,13.992959,,0,1,45,46,0,0,171,4,221,,,,,,
+2021-09-05,CL,085019,Sommatino,37.334022,13.992959,,0,1,44,45,-1,0,172,4,221,,,,,,

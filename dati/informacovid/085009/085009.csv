@@ -1,0 +1,6 @@
+data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
+2021-03-23,CL,085009,Mazzarino,37.305024,14.214078,,0,0,18,18,,,192,3,213,,,,,,
+2021-03-24,CL,085009,Mazzarino,37.305024,14.214078,,0,0,18,18,0,0,192,3,213,,,,,,
+2021-09-03,CL,085009,Mazzarino,37.305024,14.214078,,0,1,39,40,22,656,823,6,869,,,,,,
+2021-09-04,CL,085009,Mazzarino,37.305024,14.214078,,0,2,34,36,-4,2,829,6,871,,,,,,
+2021-09-05,CL,085009,Mazzarino,37.305024,14.214078,,0,2,34,36,0,0,829,6,871,,,,,,

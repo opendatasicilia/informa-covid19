@@ -1,0 +1,6 @@
+data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
+2021-03-23,CL,085014,Resuttano,37.678648,14.029464,,0,0,4,4,,,54,0,58,,,,,,
+2021-03-24,CL,085014,Resuttano,37.678648,14.029464,,0,0,4,4,0,0,54,0,58,,,,,,
+2021-09-03,CL,085014,Resuttano,37.678648,14.029464,,0,0,0,0,-4,28,86,0,86,,,,,,
+2021-09-04,CL,085014,Resuttano,37.678648,14.029464,,0,0,0,0,0,0,86,0,86,,,,,,
+2021-09-05,CL,085014,Resuttano,37.678648,14.029464,,0,0,0,0,0,0,86,0,86,,,,,,
