@@ -13,7 +13,7 @@
 - comune_codice_istat: 082067
   URL_csv: https://raw.githubusercontent.com/gabacode/f8lite/main/dati-comuni/dpc-covid19-ita-pa-082067.csv
 - comune_codice_istat: 085018
-  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRuEaLEajGQX1ILSEjMW1G5aMWQamEQvnF1fYwrU4-CXDrETFW4Kxc-SVD5PFPN5O-6ZufeWPmFw19f/pub?gid=234868662&single=true&output=csv
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1656300432&single=true&output=csv
 - comune_codice_istat: 086020
   URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRXnUM3MzQFHGuubIWljU74Bu5RxxsKuQU8mFjMMjCYB2PFhb1zBsZ5PXbFxqP9eLOSP39SIP8TPLTd/pub?gid=1116770854&single=true&output=csv
 - comune_codice_istat: 086005
