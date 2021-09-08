@@ -9,11 +9,11 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 for i in "$folder"/../../dati/rawdata/provinciaCaltanissetta/source/*.xlsx; do
   nome=$(basename "$i" .xlsx)
-  date=$(in2csv -I "$i" | mlr --csv clean-whitespace then remove-empty-columns then skip-trivial-records | grep -Po '[0-9]{4}-[0-9]{2}-[0-9]{2}' || : errors ignored)
+  date=$(in2csv -K 1 -I "$i" | mlr --csv clean-whitespace then remove-empty-columns then skip-trivial-records | grep -Po '[0-9]{4}-[0-9]{2}-[0-9]{2}' || : errors ignored)
   if [ -z "$date" ]; then
     date=""
   fi
-  in2csv -I "$i" | mlr --headerless-csv-output --csv clean-whitespace \
+  in2csv -K 1 -I "$i" | mlr --headerless-csv-output --csv clean-whitespace \
     then remove-empty-columns \
     then skip-trivial-records \
     then filter -S '$c=~"^([0-9]|PROVE)" || $d=~"COMU"' \
