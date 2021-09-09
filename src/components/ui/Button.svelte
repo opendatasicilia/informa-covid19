@@ -3,6 +3,7 @@
 
     export let href = '#'
     export let scrollTo = null
+    export let target = null
     export let variant = 'primary'
 </script>
 
@@ -11,7 +12,7 @@
         <slot />
     </a>
 {:else }
-    <a href='{href}' class='{`button button-${variant}`}'>
+    <a href='{href}' target={target}  class='{`button button-${variant}`}'>
         <slot />
     </a>
 {/if}

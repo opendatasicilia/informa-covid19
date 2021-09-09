@@ -598,7 +598,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-.DS_Store
+*.DS_Store
 .idea/
 .vscode/
 dist/
@@ -608,3 +608,4 @@ tmp*
 
 # Script outputs
 script/dati-popolazione/*.csv
+script/anagrafiche/rawdata/*

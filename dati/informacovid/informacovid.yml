@@ -1,5 +1,5 @@
 - comune_codice_istat: 086016
-  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRXHbLv9Jm42EA8Y3YExNUUwKJkRTkrtQklpbnRjWI6IjqDyd6Qz6qg2vMpYQa6gTfS47qgzP0GnpuM/pub?output=csv
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vTvyVLE-8v8C6H_AcgMXAanmaaMa4xaBOP-3Vfw2Vgjmy7A-yKwzx1SDgYrob2GS7FkV-A-5GGwfHdP/pub?gid=234868662&single=true&output=csv
 - comune_codice_istat: 086006
   URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vTlrE5ZIN7G8gH1liZwmwP0HCsw9YSrxHF_ccpHIGXVJRBsyCvtpinRBLLjbM8Au_BoGaqxLdZeDB59/pub?gid=234868662&single=true&output=csv
 - comune_codice_istat: 082004
@@ -13,8 +13,52 @@
 - comune_codice_istat: 082067
   URL_csv: https://raw.githubusercontent.com/gabacode/f8lite/main/dati-comuni/dpc-covid19-ita-pa-082067.csv
 - comune_codice_istat: 085018
-  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRuEaLEajGQX1ILSEjMW1G5aMWQamEQvnF1fYwrU4-CXDrETFW4Kxc-SVD5PFPN5O-6ZufeWPmFw19f/pub?gid=234868662&single=true&output=csv
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1656300432&single=true&output=csv
 - comune_codice_istat: 086020
   URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRXnUM3MzQFHGuubIWljU74Bu5RxxsKuQU8mFjMMjCYB2PFhb1zBsZ5PXbFxqP9eLOSP39SIP8TPLTd/pub?gid=1116770854&single=true&output=csv
 - comune_codice_istat: 086005
   URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRXnUM3MzQFHGuubIWljU74Bu5RxxsKuQU8mFjMMjCYB2PFhb1zBsZ5PXbFxqP9eLOSP39SIP8TPLTd/pub?gid=1312444582&single=true&output=csv
+- comune_codice_istat: 086004
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQvta9EO6pgXuhDOX83u0nBpJfMfviRm7Uij_H--VH-z7RsDWLi_nU-tKYLplAUTuHRX4AkhhVWEDor/pub?gid=1330079290&single=true&output=csv
+- comune_codice_istat: 085001
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1274957673&single=true&output=csv
+- comune_codice_istat: 085002
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1417290595&single=true&output=csv
+- comune_codice_istat: 085003
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=491295031&single=true&output=csv
+- comune_codice_istat: 085004
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=2041186590&single=true&output=csv
+- comune_codice_istat: 085005
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1931970596&single=true&output=csv
+- comune_codice_istat: 085006
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1482223862&single=true&output=csv
+- comune_codice_istat: 085007
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=909275789&single=true&output=csv
+- comune_codice_istat: 085008
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1346368847&single=true&output=csv
+- comune_codice_istat: 085009
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=475251992&single=true&output=csv
+- comune_codice_istat: 085010
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=817988169&single=true&output=csv
+- comune_codice_istat: 085011
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=629255153&single=true&output=csv
+- comune_codice_istat: 085012
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1109693028&single=true&output=csv
+- comune_codice_istat: 085013
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=734464576&single=true&output=csv
+- comune_codice_istat: 085014
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1649230364&single=true&output=csv
+- comune_codice_istat: 085015
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1207498073&single=true&output=csv
+- comune_codice_istat: 085016
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=388571111&single=true&output=csv
+- comune_codice_istat: 085017
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1210449872&single=true&output=csv
+- comune_codice_istat: 085019
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1415438536&single=true&output=csv
+- comune_codice_istat: 085020
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=2006044966&single=true&output=csv
+- comune_codice_istat: 085021
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=516203746&single=true&output=csv
+- comune_codice_istat: 085022
+  URL_csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1oL-PDD5o7POsa-e-1ndIYiqHfHwkpvRP3D2agE7q2GFAa36imdIfFwFbZF3jte-NxqFTkB1VSVCY/pub?gid=1120121627&single=true&output=csv
