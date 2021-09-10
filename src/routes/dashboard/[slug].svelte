@@ -15,7 +15,7 @@ export async function preload({ params }) {
 	import { stores, goto } from '@sapper/app';
 	import { onMount } from 'svelte';
 	import UAParser  from 'ua-parser-js';
-	const { preloading, page, session } = stores();
+	const { session } = stores();
 	var parser = new UAParser();
 	parser.setUA($session['user-agent']);
 	let mobile = parser.getResult().device['type'] == 'mobile';
@@ -30,5 +30,5 @@ export async function preload({ params }) {
 </script>
 
 <svelte:head>
-	<title>Redirect a {comune.title}</title>
+	<title>Redirect a {comune.comune_denominazione}</title>
 </svelte:head>
