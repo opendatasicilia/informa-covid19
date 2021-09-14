@@ -10,12 +10,14 @@
 
     <script async src='https://www.googletagmanager.com/gtag/js?id=UA-197920505-1'></script>
     <script>
-     if (localStorage.getItem('opt') === null){
+     if (localStorage.getItem('consent') === 'yes'){
          let id = 'UA-197920505-1';
          window.dataLayer = window.dataLayer || [];
          function gtag(){dataLayer.push(arguments);}
          gtag('js', new Date());
          gtag('config', id);
+     } else {
+          null
      }
     </script>
 

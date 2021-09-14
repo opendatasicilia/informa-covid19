@@ -1,9 +1,10 @@
 <script>
     import Navigation from './Navigation.svelte';
-    import Main from './Main.svelte'
     import Logo from './Logo.svelte'
     import { scrollToTop } from './actions/scrollTo'
     import Footer from './Footer.svelte'
+    import CookieConsent from './CookieConsent.svelte';
+    export let page
 </script>
 
 <div class='container leading-snug mx-auto'>
@@ -18,9 +19,10 @@
         <Navigation />
     </span>
     </header>
-    <Main />
+    <svelte:component this={page}/>
 </div>
 <Footer />
+<CookieConsent/>
 <div class='top'>
     <!-- svelte-ignore a11y-missing-attribute -->
     <a use:scrollToTop href='/#'>Torna su</a>

@@ -128,6 +128,9 @@
             È anche possibile contribuire con idee, richieste e qualunque altro tipo di feedback.
         </p>
     </PageSection>
+    <div style="display: none">
+        <a href="privacy">Privacy Policy</a>
+    </div>
 </main>
 
 <style lang='postcss'>

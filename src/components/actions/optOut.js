@@ -1,8 +1,8 @@
-export const set = () => {
-  localStorage.setItem('opt', 'out')
+export const set = (choice) => {
+  localStorage.setItem('consent', choice)
   window.location.reload()
 }
 export const remove = () => {
-  localStorage.removeItem('opt')
+  localStorage.removeItem('consent')
   window.location.reload()
 }

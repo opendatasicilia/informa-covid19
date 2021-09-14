@@ -1,6 +1,6 @@
 <script>
     import ods from '../assets/logo-ods-white.svg';
-    import { remove, set } from '../components/actions/optOut'
+    import { remove } from '../components/actions/optOut'
 </script>
 
 <footer>
@@ -36,19 +36,23 @@
             </p>
         </li>
     </ul>
+    {#if process.browser && localStorage.getItem('consent')}
     <div class='analytics'>
         <small>
-            Google Analytics tracks number of visitors<br/>
-            You can 
-            {#if process.browser}
-                {#if localStorage.getItem('opt') === null}
-                    <button on:click={() => set()}>opt out.</button>
-                {:else}
-                    <button on:click={() => remove()}>opt in.</button>
-                {/if}
+            Google Analytics tracks number of visitors.<br/>
+            You have
+            {#if localStorage.getItem('consent') === 'yes'}
+                accepted
+            {:else}
+            {#if localStorage.getItem('consent') === 'no'}
+                refused
             {/if}
+            {/if}
+             to take part.
+            <button on:click={() => remove()}>Review my choice</button>
         </small>
     </div>
+    {/if}
 </footer>
 
 <style>
