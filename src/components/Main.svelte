@@ -59,7 +59,7 @@
             <strong>InformaCOVID</strong> è rivolto principalmente ai sindaci delle città italiane, <strong>ma non
             solo</strong>. Associazioni, scuole, testate giornalistiche, praticamente chiunque sia in possesso di dati
             COVID19, provenienti da fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione
-            alla cittadinanza. Di seguito i primi comuni che hanno aderito a <strong>InformaCOVID</strong>.
+            alla cittadinanza. Di seguito i <a href="d">primi comuni</a> che hanno aderito a <strong>InformaCOVID</strong>.
         </section>
 
         <section class='tabs'>
