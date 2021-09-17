@@ -12,15 +12,11 @@ export async function preload({ params }) {
 
 <script>
 	export let comune;
-	import { stores, goto } from '@sapper/app';
+	import { goto } from '@sapper/app';
 	import { onMount } from 'svelte';
-	import UAParser  from 'ua-parser-js';
-	const { session } = stores();
-	var parser = new UAParser();
-	parser.setUA($session['user-agent']);
-	let mobile = parser.getResult().device['type'] == 'mobile';
 
 	onMount(async () => {
+		let mobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
 		if(mobile){
 			goto(comune.mobile)
 		}else{
