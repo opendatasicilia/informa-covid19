@@ -8,7 +8,7 @@
         <li class='logo'>
             <img src={ods} alt='Logo Open Data Sicilia'>
         </li>
-        <li>
+        <li class='empty'>
 
         </li>
         <li>
@@ -55,7 +55,7 @@
     {/if}
 </footer>
 
-<style>
+<style lang='postcss'>
     a {
         @apply underline;
     }
@@ -76,6 +76,12 @@
     li {
         @apply mb-8;
         @apply md:mb-0;
+    }
+    
+    @media(max-width:640px) {
+        .empty {
+            display: none;
+        }
     }
 
     .logo {

@@ -21,16 +21,16 @@ var comuni = [
   },
   {
     comune_codice_istat: 86020,
-    mobile: 'https://informacovid.opendatasicilia.it/',
-    desktop: 'https://informacovid.opendatasicilia.it/',
+    mobile: 'https://covidvillarosa.herokuapp.com/',
+    desktop: 'https://covidvillarosa.herokuapp.com/',
     comune_denominazione: 'Villarosa',
     slug: 'villarosa',
     stemma: 'https://upload.wikimedia.org/wikipedia/it/2/2e/Villarosa-Stemma.png',
   },
   {
     comune_codice_istat: 86005,
-    mobile: 'https://informacovid.opendatasicilia.it/',
-    desktop: 'https://informacovid.opendatasicilia.it/',
+    mobile: 'https://covidcalascibetta.herokuapp.com/',
+    desktop: 'https://covidcalascibetta.herokuapp.com/',
     comune_denominazione: 'Calascibetta',
     slug: 'calascibetta',
     stemma:

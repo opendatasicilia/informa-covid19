@@ -17,18 +17,16 @@ export async function preload({ params }) {
 
 	onMount(async () => {
 		let mobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
-		if(mobile){
-			goto(comune.mobile)
-		}else{
-			goto(comune.desktop)
-		}
+		mobile ? goto(comune.mobile) : goto(comune.desktop)
 	});
 </script>
 
 <svelte:head>
 	<title>{`${comune.comune_denominazione} - Rapporto dati COVID19`}</title>
-	<meta property="og:url" content={`https://informacovid.opendatasicilia.it/d/${comune.slug}`} />
+	<meta property="og:url" content={`https://informacovid.opendatasicilia.it/d/${comune.slug}/`} />
 	<meta property="og:title" content={`${comune.comune_denominazione} - Rapporto dati COVID19`} />
 	<meta property="og:description" content={`Dashboard Situazione Epidemiologica a ${comune.comune_denominazione}`} />
 	<meta property="og:image" content={comune.stemma} />
+	<meta property="og:image:width" content="200" />
+	<meta property="og:image:height" content="200" />
 </svelte:head>
