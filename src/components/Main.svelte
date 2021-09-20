@@ -54,7 +54,7 @@
             <strong>InformaCOVID</strong> è rivolto principalmente ai sindaci delle città italiane, <strong>ma non
             solo</strong>. Associazioni, scuole, testate giornalistiche, praticamente chiunque sia in possesso di dati
             COVID19, provenienti da fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione
-            alla cittadinanza. Di seguito i <a href="d">primi comuni</a> che hanno aderito a <strong>InformaCOVID</strong>.
+            alla cittadinanza. <a href="d"><u>Apri l'elenco completo</u></a> dei comuni che hanno aderito a <strong>InformaCOVID</strong>.
         </section>
         <section class='map'>
             <iframe title="map" width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/informacovid_653616?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false#8/37.490/14.185"></iframe>
