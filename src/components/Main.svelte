@@ -3,13 +3,8 @@
     import dashboardDesktop from '../assets/dashboard-desktop.svg';
     import dashboardMobile from '../assets/dashboard-mobile.svg';
     import dashboardMockup from '../assets/mockup-dashboard-mobile-desktop@2x.png';
-    import exampleCate from '../assets/catenanuova-logo.png';
-    import exampleRega from '../assets/regalbuto-logo.png';
-    import exampleSerra from '../assets/serradifalco-logo.png';
     import youtubeCover from '../assets/informa-covid-youtube-cover-mobile.png';
     import Button from './ui/Button.svelte';
-    import OpenTab from './ui/OpenTab.svelte';
-    import OpenTabs from './ui/OpenTabs.svelte';
     import PageSection from './ui/PageSection.svelte';
 </script>
 
@@ -61,37 +56,8 @@
             COVID19, provenienti da fonti ufficiali ed autorevoli, può utilizzare la piattaforma per dare comunicazione
             alla cittadinanza. Di seguito i <a href="d">primi comuni</a> che hanno aderito a <strong>InformaCOVID</strong>.
         </section>
-
-        <section class='tabs'>
-            <OpenTabs>
-                <OpenTab>
-                    <div>
-                        <a class='experience' target='_blank' rel='noopener nofollow'
-                           href='https://newsl.ink/dashboardregalbuto'>
-                            <img src={exampleRega} alt='' class='h-32 m-auto w-32'>
-                            <p>Regalbuto (EN)</p>
-                        </a>
-                    </div>
-                </OpenTab>
-                <OpenTab>
-                    <div>
-                        <a class='experience' target='_blank' rel='noopener nofollow'
-                           href='https://notizie.link/dashboardcatenanuova'>
-                            <img src={exampleCate} alt='' class='h-32 m-auto w-32'>
-                            <p>Catenanuova (EN)</p>
-                        </a>
-                    </div>
-                </OpenTab>
-                <OpenTab>
-                    <div>
-                        <a class='experience' target='_blank' rel='noopener nofollow'
-                           href='https://datastudio.google.com/reporting/45ec94b1-32f0-489e-b882-977c12af81d4'>
-                            <img src={exampleSerra} alt='' class='h-32 m-auto w-32'>
-                            <p>Serradifalco (CL)</p>
-                        </a>
-                    </div>
-                </OpenTab>
-            </OpenTabs>
+        <section class='map'>
+            <iframe title="map" width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/informacovid_653616?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false#8/37.490/14.185"></iframe>
         </section>
     </PageSection>
     <PageSection title='Informa Covid Dashboard'>
@@ -143,16 +109,8 @@
         @apply flex justify-center mt-16;
     }
 
-    .experience {
-        @apply flex flex-col text-center;
-    }
-
-    .experience p {
-        @apply mt-8;
-    }
-
-    .tabs {
-        @apply mt-16 md:mt-24;
+    .map {
+        @apply mt-4 md:mt-8
     }
 
     .video {
