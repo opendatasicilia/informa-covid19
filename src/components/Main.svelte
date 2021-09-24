@@ -57,7 +57,7 @@
             alla cittadinanza. <a href="d"><u>Apri l'elenco completo</u></a> dei comuni che hanno aderito a <strong>InformaCOVID</strong>.
         </section>
         <section class='map'>
-            <iframe title="map" width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/informacovid_653616?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false#8/37.490/14.185"></iframe>
+            <iframe title="map" width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/it/map/informacovid-20_660317?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false#8/37.490/14.185"></iframe>
         </section>
     </PageSection>
     <PageSection title='Informa Covid Dashboard'>
