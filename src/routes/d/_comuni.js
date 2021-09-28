@@ -21,16 +21,16 @@ var comuni = [
   },
   {
     comune_codice_istat: 86020,
-    mobile: 'https://covidvillarosa.herokuapp.com/',
-    desktop: 'https://covidvillarosa.herokuapp.com/',
+    mobile: 'https://datastudio.google.com/reporting/88138ad1-c121-4cc1-80a9-468fef053704',
+    desktop: 'https://datastudio.google.com/reporting/f4b19b98-6624-44d9-ae15-d7bd2092ef21',
     comune_denominazione: 'Villarosa',
     slug: 'villarosa',
     stemma: 'https://upload.wikimedia.org/wikipedia/it/2/2e/Villarosa-Stemma.png',
   },
   {
     comune_codice_istat: 86005,
-    mobile: 'https://covidcalascibetta.herokuapp.com/',
-    desktop: 'https://covidcalascibetta.herokuapp.com/',
+    mobile: 'https://datastudio.google.com/reporting/d100d367-023e-4afd-aa3d-2653612b034a',
+    desktop: 'https://datastudio.google.com/reporting/8c844c8e-c90d-4ff7-a33f-d6b0ecd465d5',
     comune_denominazione: 'Calascibetta',
     slug: 'calascibetta',
     stemma:
