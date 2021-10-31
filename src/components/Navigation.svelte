@@ -14,7 +14,7 @@
 <ul>
     {#if pathname === '/'}
         <li class='nav-item'>
-            <a use:scrollTo={'#cosa'} class='nav-item-link' href='#cosa'>Cosa è Informa Covid?</a>
+            <a use:scrollTo={'#cosa'} class='nav-item-link' href='#cosa'>Cosa è InformaCOVID?</a>
         </li>
         <li class='nav-item'>
             <a use:scrollTo={'#come-funziona'} class='nav-item-link' href='#come-funziona'>Come funziona?</a>
