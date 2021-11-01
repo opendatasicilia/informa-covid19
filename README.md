@@ -41,10 +41,11 @@ L'aggiornamento dei dati (che è possibile trovare in [questa cartella](https://
 
 InformaCOVID è già utilizzato da alcune Amministrazioni Pubbliche e testate giornalistiche. Guarda degli esempi:
 
-- [Comune di Catenanuova (EN)](https://notizie.link/dashboardcatenanuova)
-- [Comune di Regalbuto (EN)](https://newsl.ink/dashboardregalbuto)
+- [Comune di Catenanuova (EN)](https://informacovid.opendatasicilia.it/d/catenanuova)
+- [Comune di Regalbuto (EN)](https://informacovid.opendatasicilia.it/d/regalbuto)
 - [Comune di Serradifalco (CL)](https://datastudio.google.com/reporting/45ec94b1-32f0-489e-b882-977c12af81d4)
-- [Comune di Barrafranca (EN)](https://notizie.link/barrafranca-informacovid)
+- [Comune di Barrafranca (EN)](https://informacovid.opendatasicilia.it/d/barrafranca)
+- [Comune di Caltanissetta (CL)](https://informacovid.opendatasicilia.it/d/caltanissetta)
 
 ---
 
