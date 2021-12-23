@@ -6,7 +6,7 @@
     import socialCardTwitter from '../assets/informa-covid-social-card-tw.png'
 
     const metadata = {
-      title: 'Informa Covid',
+      title: 'InformaCOVID',
       description:
         'Buone pratiche di comunicazione pubblica dei dati COVID19 per le Amministrazioni Locali',
       image: {
