@@ -11,7 +11,7 @@
     <header>
         <h1 class='logo'>
             <a href='/'>
-                <span class='sr-only'>Informa Covid</span>
+                <span class='sr-only'>InformaCOVID</span>
                 <Logo />
             </a>
         </h1>
