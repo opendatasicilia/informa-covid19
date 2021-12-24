@@ -27,7 +27,7 @@
         </li>
     {:else}
         <li class='nav-item'>
-            <a class='nav-item-link' href='#cosa'>Cosa è Informa Covid?</a>
+            <a class='nav-item-link' href='#cosa'>Cosa è InformaCOVID?</a>
         </li>
         <li class='nav-item'>
             <a class='nav-item-link' href='#come-funziona'>Come funziona?</a>
