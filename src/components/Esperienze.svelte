@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>Informa Covid - Esperienze</title>
+  <title>InformaCOVID - Esperienze</title>
   <meta name="robots" content="noindex, nofollow">
 </svelte:head>
 
