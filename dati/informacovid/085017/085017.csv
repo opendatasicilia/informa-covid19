@@ -253,3 +253,6 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-01-08,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,88,88,13,13,309,3,400,,,,,,
 2022-01-09,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,83,83,-5,0,314,3,400,,,,,,
 2022-01-10,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,96,96,13,18,319,3,418,,,,,,
+2022-01-12,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,121,121,25,32,326,3,450,,,,,,
+2022-01-13,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,130,130,9,14,331,3,464,,,,,,
+2022-01-14,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,1,131,132,2,6,335,3,470,,,,,,
