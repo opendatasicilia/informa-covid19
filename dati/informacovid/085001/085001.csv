@@ -277,3 +277,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-02-02,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,29,29,1,1,101,0,130,,,,,,
 2022-02-03,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,29,29,0,0,101,0,130,,,,,,
 2022-02-04,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,28,28,-1,0,102,0,130,,,,,,
+2022-02-05,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,28,28,0,1,103,0,131,,,,,,
