@@ -1,27 +1,4 @@
 denominazione_comune,terapia_intensiva,malattie_infettive,positivi_quarantena_domiciliare,ricoverati_altrove,guariti_clinicamente,guariti_da_covid,deceduti_in_provincia,deceduti_fuori_provincia,data
-Acquaviva Platani,,,,,,10,,,2021-03-01
-Bompensiere,,,,,,18,1,,2021-03-01
-Butera,,,3,,,76,,,2021-03-01
-Campofranco,,1,,,,40,2,,2021-03-01
-Caltanissetta,,17,106,1,,1044,25,1,2021-03-01
-Delia,,,2,,,29,,,2021-03-01
-Gela,2,13,87,3,,2712,60,,2021-03-01
-Marianopoli,,,2,,,4,1,,2021-03-01
-Mazzarino,,,1,,,191,3,,2021-03-01
-Milena,,,1,,,139,5,,2021-03-01
-Montedoro,,,16,,,31,1,,2021-03-01
-Mussomeli,,,20,,,146,4,1,2021-03-01
-Niscemi,,4,91,,,914,18,,2021-03-01
-Resuttano,,,,,,54,,,2021-03-01
-Riesi,1,4,66,1,,129,4,,2021-03-01
-San Cataldo,,3,35,,,526,9,,2021-03-01
-Santa Caterina Villarmosa,,1,1,,,60,1,,2021-03-01
-Serradifalco,,,1,,,85,1,,2021-03-01
-Sommatino,,,3,,,46,2,,2021-03-01
-Sutera,,,,,,3,,,2021-03-01
-Vallelunga Pratameno,,,1,,,21,,,2021-03-01
-Villalba,,,8,,,24,,,2021-03-01
-altreProvince,,2,,2,14,46,25,,2021-03-01
 Acquaviva Platani,,,,,,10,,,2021-03-02
 Bompensiere,,,,,,18,1,,2021-03-02
 Butera,,,3,,,76,,,2021-03-02
@@ -6899,3 +6876,26 @@ Sutera,,,3,,,66,,,2022-02-28
 Vallelunga Pratameno,,1,56,,,673,1,,2022-02-28
 Villalba,,,7,,,215,,,2022-02-28
 altreProvince,1,1,,,,70,37,,2022-02-28
+Acquaviva Platani,,,1,,,138,,,2022-03-01
+Bompensiere,,,16,,,56,1,,2022-03-01
+Butera,,,39,,,519,3,,2022-03-01
+Caltanissetta,2,16,617,2,,9598,83,1,2022-03-01
+Campofranco,,,46,,,445,4,,2022-03-01
+Delia,,,35,,,496,3,,2022-03-01
+Gela,,11,968,1,,16594,142,1,2022-03-01
+Marianopoli,,,5,,,292,8,,2022-03-01
+Mazzarino,,3,98,,,2113,8,1,2022-03-01
+Milena,,,82,,,328,7,,2022-03-01
+Montedoro,,,12,,,179,4,,2022-03-01
+Mussomeli,,1,121,,,1676,12,1,2022-03-01
+Niscemi,,2,215,,,5908,52,,2022-03-01
+Resuttano,,,12,,,207,,,2022-03-01
+Riesi,,1,59,,,1669,16,,2022-03-01
+San Cataldo,,6,390,,,3313,26,,2022-03-01
+Santa Caterina Villarmosa,,1,24,,,724,4,,2022-03-01
+Serradifalco,,2,107,,,760,7,,2022-03-01
+Sommatino,,2,80,,,774,5,,2022-03-01
+Sutera,,,3,,,66,,,2022-03-01
+Vallelunga Pratameno,,1,55,,,675,1,,2022-03-01
+Villalba,,,7,,,215,,,2022-03-01
+altreProvince,1,1,,,,70,37,,2022-03-01
