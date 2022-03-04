@@ -1,6 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
-2021-03-02,CL,085010,Milena,37.471521,13.736437,,0,0,1,1,,,139,5,145,,,,,,
-2021-03-03,CL,085010,Milena,37.471521,13.736437,,0,0,11,11,10,10,139,5,155,,,,,,
+2021-03-03,CL,085010,Milena,37.471521,13.736437,,0,0,11,11,,,139,5,155,,,,,,
 2021-03-04,CL,085010,Milena,37.471521,13.736437,,0,0,12,12,1,1,139,5,156,,,,,,
 2021-03-05,CL,085010,Milena,37.471521,13.736437,,0,0,12,12,0,0,139,5,156,,,,,,
 2021-03-06,CL,085010,Milena,37.471521,13.736437,,0,0,12,12,0,0,139,5,156,,,,,,
@@ -299,3 +298,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-02-26,CL,085010,Milena,37.471521,13.736437,,0,0,73,73,0,0,318,7,398,,,,,,
 2022-02-28,CL,085010,Milena,37.471521,13.736437,,0,0,79,79,6,15,327,7,413,,,,,,
 2022-03-01,CL,085010,Milena,37.471521,13.736437,,0,0,82,82,3,4,328,7,417,,,,,,
+2022-03-02,CL,085010,Milena,37.471521,13.736437,,0,0,78,78,-4,1,333,7,418,,,,,,

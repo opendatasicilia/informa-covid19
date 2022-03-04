@@ -1,6 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
-2021-03-02,CL,085004,Caltanissetta,37.489941,14.063162,,0,18,105,123,,,1046,26,1195,,,,,,
-2021-03-03,CL,085004,Caltanissetta,37.489941,14.063162,,0,18,108,126,3,11,1054,26,1206,,,,,,
+2021-03-03,CL,085004,Caltanissetta,37.489941,14.063162,,0,18,108,126,,,1054,26,1206,,,,,,
 2021-03-04,CL,085004,Caltanissetta,37.489941,14.063162,,0,20,106,126,0,0,1054,26,1206,,,,,,
 2021-03-05,CL,085004,Caltanissetta,37.489941,14.063162,,0,20,112,132,6,12,1060,26,1218,,,,,,
 2021-03-06,CL,085004,Caltanissetta,37.489941,14.063162,,0,20,114,134,2,9,1067,26,1227,,,,,,
@@ -299,3 +298,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-02-26,CL,085004,Caltanissetta,37.489941,14.063162,,3,21,621,642,-47,19,9412,83,10137,,,,,,
 2022-02-28,CL,085004,Caltanissetta,37.489941,14.063162,,2,20,632,652,10,130,9531,84,10267,,,,,,
 2022-03-01,CL,085004,Caltanissetta,37.489941,14.063162,,2,20,617,637,-15,52,9598,84,10319,,,,,,
+2022-03-02,CL,085004,Caltanissetta,37.489941,14.063162,,2,19,614,633,-4,56,9658,84,10375,,,,,,

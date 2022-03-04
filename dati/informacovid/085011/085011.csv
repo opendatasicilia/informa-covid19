@@ -1,6 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
-2021-03-02,CL,085011,Montedoro,37.453508,13.816238,,0,0,16,16,,,31,1,48,,,,,,
-2021-03-03,CL,085011,Montedoro,37.453508,13.816238,,0,0,21,21,5,5,31,1,53,,,,,,
+2021-03-03,CL,085011,Montedoro,37.453508,13.816238,,0,0,21,21,,,31,1,53,,,,,,
 2021-03-04,CL,085011,Montedoro,37.453508,13.816238,,0,0,21,21,0,0,31,1,53,,,,,,
 2021-03-05,CL,085011,Montedoro,37.453508,13.816238,,0,0,24,24,3,3,31,1,56,,,,,,
 2021-03-06,CL,085011,Montedoro,37.453508,13.816238,,0,1,23,24,0,0,31,1,56,,,,,,
@@ -299,3 +298,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-02-26,CL,085011,Montedoro,37.453508,13.816238,,0,0,16,16,0,0,171,4,191,,,,,,
 2022-02-28,CL,085011,Montedoro,37.453508,13.816238,,0,0,11,11,-5,3,179,4,194,,,,,,
 2022-03-01,CL,085011,Montedoro,37.453508,13.816238,,0,0,12,12,1,1,179,4,195,,,,,,
+2022-03-02,CL,085011,Montedoro,37.453508,13.816238,,0,0,14,14,2,2,179,4,197,,,,,,

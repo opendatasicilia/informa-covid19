@@ -1,6 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
-2021-03-02,CL,085007,Gela,37.066436,14.250244,,2,17,87,104,,,2716,60,2880,,,,,,
-2021-03-03,CL,085007,Gela,37.066436,14.250244,,2,15,79,94,-10,0,2726,60,2880,,,,,,
+2021-03-03,CL,085007,Gela,37.066436,14.250244,,2,15,79,94,,,2726,60,2880,,,,,,
 2021-03-04,CL,085007,Gela,37.066436,14.250244,,2,15,73,88,-6,0,2732,60,2880,,,,,,
 2021-03-05,CL,085007,Gela,37.066436,14.250244,,2,14,68,82,-6,0,2738,60,2880,,,,,,
 2021-03-06,CL,085007,Gela,37.066436,14.250244,,1,14,65,79,-3,0,2740,61,2880,,,,,,
@@ -299,3 +298,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-02-26,CL,085007,Gela,37.066436,14.250244,,0,12,983,995,-25,9,16340,142,17477,,,,,,
 2022-02-28,CL,085007,Gela,37.066436,14.250244,,0,12,956,968,-27,174,16540,143,17651,,,,,,
 2022-03-01,CL,085007,Gela,37.066436,14.250244,,0,12,968,980,12,66,16594,143,17717,,,,,,
+2022-03-02,CL,085007,Gela,37.066436,14.250244,,0,11,985,996,16,62,16640,143,17779,,,,,,

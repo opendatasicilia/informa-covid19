@@ -1,6 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
-2021-03-02,CL,085018,Serradifalco,37.453843,13.880463,,0,0,1,1,,,85,1,87,,,,,,
-2021-03-03,CL,085018,Serradifalco,37.453843,13.880463,,0,0,5,5,4,5,86,1,92,,,,,,
+2021-03-03,CL,085018,Serradifalco,37.453843,13.880463,,0,0,5,5,,,86,1,92,,,,,,
 2021-03-04,CL,085018,Serradifalco,37.453843,13.880463,,0,0,5,5,0,0,86,1,92,,,,,,
 2021-03-05,CL,085018,Serradifalco,37.453843,13.880463,,0,0,5,5,0,0,86,1,92,,,,,,
 2021-03-06,CL,085018,Serradifalco,37.453843,13.880463,,0,0,15,15,10,10,86,1,102,,,,,,
@@ -299,3 +298,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-02-26,CL,085018,Serradifalco,37.453843,13.880463,,0,2,98,100,-2,1,742,7,849,,,,,,
 2022-02-28,CL,085018,Serradifalco,37.453843,13.880463,,0,2,106,108,8,21,755,7,870,,,,,,
 2022-03-01,CL,085018,Serradifalco,37.453843,13.880463,,0,2,107,109,1,6,760,7,876,,,,,,
+2022-03-02,CL,085018,Serradifalco,37.453843,13.880463,,0,2,116,118,9,13,764,7,889,,,,,,

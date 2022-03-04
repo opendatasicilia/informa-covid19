@@ -1,6 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
-2021-03-02,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,1,1,,,61,1,63,,,,,,
-2021-03-03,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,1,1,0,0,61,1,63,,,,,,
+2021-03-03,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,1,1,,,61,1,63,,,,,,
 2021-03-04,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,1,1,0,0,61,1,63,,,,,,
 2021-03-05,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,1,1,0,0,61,1,63,,,,,,
 2021-03-06,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,1,1,0,0,61,1,63,,,,,,
@@ -299,3 +298,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-02-26,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,31,31,-1,0,709,4,744,,,,,,
 2022-02-28,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,0,29,29,-2,7,718,4,751,,,,,,
 2022-03-01,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,1,24,25,-4,2,724,4,753,,,,,,
+2022-03-02,CL,085017,Santa Caterina Villarmosa,37.591147,14.036265,,0,1,35,36,11,11,724,4,764,,,,,,
