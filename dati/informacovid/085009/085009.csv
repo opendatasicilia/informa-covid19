@@ -1,8 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
-2021-03-03,CL,085009,Mazzarino,37.305024,14.214078,,0,0,1,1,,,191,3,195,,,,,,
-2021-03-04,CL,085009,Mazzarino,37.305024,14.214078,,0,0,1,1,0,0,191,3,195,,,,,,
-2021-03-05,CL,085009,Mazzarino,37.305024,14.214078,,0,0,1,1,0,0,191,3,195,,,,,,
-2021-03-06,CL,085009,Mazzarino,37.305024,14.214078,,0,0,1,1,0,0,191,3,195,,,,,,
+2021-03-06,CL,085009,Mazzarino,37.305024,14.214078,,0,0,1,1,,,191,3,195,,,,,,
 2021-03-07,CL,085009,Mazzarino,37.305024,14.214078,,0,0,1,1,0,0,191,3,195,,,,,,
 2021-03-08,CL,085009,Mazzarino,37.305024,14.214078,,0,0,1,1,0,0,191,3,195,,,,,,
 2021-03-09,CL,085009,Mazzarino,37.305024,14.214078,,0,0,1,1,0,0,191,3,195,,,,,,
@@ -299,3 +296,6 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-02-28,CL,085009,Mazzarino,37.305024,14.214078,,0,4,94,98,-24,8,2106,9,2213,,,,,,
 2022-03-01,CL,085009,Mazzarino,37.305024,14.214078,,0,3,98,101,3,10,2113,9,2223,,,,,,
 2022-03-02,CL,085009,Mazzarino,37.305024,14.214078,,0,3,94,97,-4,1,2118,9,2224,,,,,,
+2022-03-03,CL,085009,Mazzarino,37.305024,14.214078,,0,3,79,82,-15,1,2134,9,2225,,,,,,
+2022-03-04,CL,085009,Mazzarino,37.305024,14.214078,,0,3,73,76,-6,4,2144,9,2229,,,,,,
+2022-03-05,CL,085009,Mazzarino,37.305024,14.214078,,0,3,76,79,3,9,2150,9,2238,,,,,,

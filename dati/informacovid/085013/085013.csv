@@ -1,8 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
-2021-03-03,CL,085013,Niscemi,37.14645,14.39418,,0,2,79,81,,,929,19,1029,,,,,,
-2021-03-04,CL,085013,Niscemi,37.14645,14.39418,,0,2,79,81,0,4,933,19,1033,,,,,,
-2021-03-05,CL,085013,Niscemi,37.14645,14.39418,,0,2,77,79,-2,1,936,19,1034,,,,,,
-2021-03-06,CL,085013,Niscemi,37.14645,14.39418,,0,2,74,76,-3,3,942,19,1037,,,,,,
+2021-03-06,CL,085013,Niscemi,37.14645,14.39418,,0,2,74,76,,,942,19,1037,,,,,,
 2021-03-07,CL,085013,Niscemi,37.14645,14.39418,,0,2,73,75,-1,3,946,19,1040,,,,,,
 2021-03-08,CL,085013,Niscemi,37.14645,14.39418,,0,2,70,72,-3,5,953,20,1045,,,,,,
 2021-03-09,CL,085013,Niscemi,37.14645,14.39418,,0,2,62,64,-8,1,962,20,1046,,,,,,
@@ -299,3 +296,6 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-02-28,CL,085013,Niscemi,37.14645,14.39418,,0,3,226,229,-41,25,5886,52,6167,,,,,,
 2022-03-01,CL,085013,Niscemi,37.14645,14.39418,,0,2,215,217,-12,10,5908,52,6177,,,,,,
 2022-03-02,CL,085013,Niscemi,37.14645,14.39418,,0,2,199,201,-16,2,5926,52,6179,,,,,,
+2022-03-03,CL,085013,Niscemi,37.14645,14.39418,,0,2,183,185,-16,10,5952,52,6189,,,,,,
+2022-03-04,CL,085013,Niscemi,37.14645,14.39418,,0,2,185,187,2,12,5962,52,6201,,,,,,
+2022-03-05,CL,085013,Niscemi,37.14645,14.39418,,0,2,189,191,4,14,5972,52,6215,,,,,,
