@@ -1,7 +1,6 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
 2021-03-06,CL,085006,Delia,37.356036,13.927289,,0,0,12,12,,,29,0,41,,,,,,
-2021-03-10,CL,085006,Delia,37.356036,13.927289,,0,0,10,10,-2,0,31,0,41,,,,,,
-2021-03-11,CL,085006,Delia,37.356036,13.927289,,0,0,10,10,0,0,31,0,41,,,,,,
+2021-03-11,CL,085006,Delia,37.356036,13.927289,,0,0,10,10,-2,0,31,0,41,,,,,,
 2021-03-13,CL,085006,Delia,37.356036,13.927289,,0,1,10,11,1,1,31,0,42,,,,,,
 2021-03-14,CL,085006,Delia,37.356036,13.927289,,0,1,10,11,0,0,31,0,42,,,,,,
 2021-03-15,CL,085006,Delia,37.356036,13.927289,,0,1,10,11,0,0,31,0,42,,,,,,
@@ -299,3 +298,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-03-07,CL,085006,Delia,37.356036,13.927289,,0,0,35,35,3,8,509,3,547,,,,,,
 2022-03-08,CL,085006,Delia,37.356036,13.927289,,0,0,39,39,4,8,513,3,555,,,,,,
 2022-03-09,CL,085006,Delia,37.356036,13.927289,,0,0,39,39,0,1,514,3,556,,,,,,
+2022-03-10,CL,085006,Delia,37.356036,13.927289,,0,0,47,47,8,8,514,3,564,,,,,,

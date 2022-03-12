@@ -1,6 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
 2021-03-06,CL,085008,Marianopoli,37.597446,13.915763,,0,0,0,0,,,6,1,7,,,,,,
-2021-03-10,CL,085008,Marianopoli,37.597446,13.915763,,0,0,0,0,0,0,6,1,7,,,,,,
 2021-03-11,CL,085008,Marianopoli,37.597446,13.915763,,0,0,0,0,0,0,6,1,7,,,,,,
 2021-03-13,CL,085008,Marianopoli,37.597446,13.915763,,0,0,0,0,0,0,6,1,7,,,,,,
 2021-03-14,CL,085008,Marianopoli,37.597446,13.915763,,0,0,0,0,0,0,6,1,7,,,,,,
@@ -299,3 +298,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-03-07,CL,085008,Marianopoli,37.597446,13.915763,,0,0,10,10,3,3,292,8,310,,,,,,
 2022-03-08,CL,085008,Marianopoli,37.597446,13.915763,,0,0,11,11,1,2,293,8,312,,,,,,
 2022-03-09,CL,085008,Marianopoli,37.597446,13.915763,,0,0,9,9,-2,0,295,8,312,,,,,,
+2022-03-10,CL,085008,Marianopoli,37.597446,13.915763,,0,0,11,11,2,2,295,8,314,,,,,,
