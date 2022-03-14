@@ -1,7 +1,6 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
 2021-03-06,CL,085012,Mussomeli,37.577845,13.751259,,1,2,43,45,,,146,5,196,,,,,,
-2021-03-11,CL,085012,Mussomeli,37.577845,13.751259,,0,3,42,45,0,5,151,5,201,,,,,,
-2021-03-13,CL,085012,Mussomeli,37.577845,13.751259,,0,3,43,46,1,2,152,5,203,,,,,,
+2021-03-13,CL,085012,Mussomeli,37.577845,13.751259,,0,3,43,46,1,7,152,5,203,,,,,,
 2021-03-14,CL,085012,Mussomeli,37.577845,13.751259,,0,3,43,46,0,0,152,5,203,,,,,,
 2021-03-15,CL,085012,Mussomeli,37.577845,13.751259,,0,3,40,43,-3,0,155,5,203,,,,,,
 2021-03-16,CL,085012,Mussomeli,37.577845,13.751259,,0,3,39,42,-1,0,156,5,203,,,,,,
@@ -299,3 +298,5 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-03-08,CL,085012,Mussomeli,37.577845,13.751259,,0,1,152,153,18,29,1756,13,1922,,,,,,
 2022-03-09,CL,085012,Mussomeli,37.577845,13.751259,,0,1,166,167,14,17,1759,13,1939,,,,,,
 2022-03-10,CL,085012,Mussomeli,37.577845,13.751259,,0,0,166,166,-1,14,1774,13,1953,,,,,,
+2022-03-11,CL,085012,Mussomeli,37.577845,13.751259,,0,0,179,179,13,23,1784,13,1976,,,,,,
+2022-03-12,CL,085012,Mussomeli,37.577845,13.751259,,0,0,181,181,2,11,1793,13,1987,,,,,,

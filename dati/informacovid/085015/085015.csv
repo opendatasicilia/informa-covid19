@@ -1,7 +1,6 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
 2021-03-06,CL,085015,Riesi,37.281961,14.082414,,0,3,82,85,,,140,4,229,,,,,,
-2021-03-11,CL,085015,Riesi,37.281961,14.082414,,0,4,86,90,5,20,154,5,249,,,,,,
-2021-03-13,CL,085015,Riesi,37.281961,14.082414,,0,3,81,84,-6,5,164,6,254,,,,,,
+2021-03-13,CL,085015,Riesi,37.281961,14.082414,,0,3,81,84,-1,25,164,6,254,,,,,,
 2021-03-14,CL,085015,Riesi,37.281961,14.082414,,0,3,81,84,0,0,164,6,254,,,,,,
 2021-03-15,CL,085015,Riesi,37.281961,14.082414,,0,3,75,78,-6,0,170,6,254,,,,,,
 2021-03-16,CL,085015,Riesi,37.281961,14.082414,,0,3,75,78,0,2,172,6,256,,,,,,
@@ -299,3 +298,5 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-03-08,CL,085015,Riesi,37.281961,14.082414,,0,2,49,51,5,5,1698,16,1765,,,,,,
 2022-03-09,CL,085015,Riesi,37.281961,14.082414,,0,2,50,52,1,2,1699,16,1767,,,,,,
 2022-03-10,CL,085015,Riesi,37.281961,14.082414,,0,2,50,52,0,1,1700,16,1768,,,,,,
+2022-03-11,CL,085015,Riesi,37.281961,14.082414,,0,2,51,53,1,8,1707,16,1776,,,,,,
+2022-03-12,CL,085015,Riesi,37.281961,14.082414,,0,1,48,49,-4,0,1711,16,1776,,,,,,
