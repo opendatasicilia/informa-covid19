@@ -1,6 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
 2021-03-06,CL,085002,Bompensiere,37.473829,13.780745,,0,0,0,0,,,18,1,19,,,,,,
-2021-03-14,CL,085002,Bompensiere,37.473829,13.780745,,0,0,0,0,0,0,18,1,19,,,,,,
 2021-03-15,CL,085002,Bompensiere,37.473829,13.780745,,0,0,0,0,0,0,18,1,19,,,,,,
 2021-03-16,CL,085002,Bompensiere,37.473829,13.780745,,0,0,0,0,0,0,18,1,19,,,,,,
 2021-03-17,CL,085002,Bompensiere,37.473829,13.780745,,0,0,0,0,0,0,18,1,19,,,,,,
@@ -300,3 +299,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-03-11,CL,085002,Bompensiere,37.473829,13.780745,,0,0,9,9,-2,1,71,1,81,,,,,,
 2022-03-12,CL,085002,Bompensiere,37.473829,13.780745,,0,0,9,9,0,0,71,1,81,,,,,,
 2022-03-13,CL,085002,Bompensiere,37.473829,13.780745,,0,0,9,9,0,0,71,1,81,,,,,,
+2022-03-14,CL,085002,Bompensiere,37.473829,13.780745,,0,0,4,4,-5,0,76,1,81,,,,,,

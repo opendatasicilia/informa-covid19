@@ -1,6 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
 2021-03-06,CL,085005,Campofranco,37.510479,13.711044,,0,1,0,1,,,40,2,43,,,,,,
-2021-03-14,CL,085005,Campofranco,37.510479,13.711044,,0,1,0,1,0,0,40,2,43,,,,,,
 2021-03-15,CL,085005,Campofranco,37.510479,13.711044,,0,1,0,1,0,0,40,2,43,,,,,,
 2021-03-16,CL,085005,Campofranco,37.510479,13.711044,,0,1,0,1,0,0,40,2,43,,,,,,
 2021-03-17,CL,085005,Campofranco,37.510479,13.711044,,0,1,0,1,0,0,40,2,43,,,,,,
@@ -300,3 +299,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-03-11,CL,085005,Campofranco,37.510479,13.711044,,0,0,73,73,3,5,468,4,545,,,,,,
 2022-03-12,CL,085005,Campofranco,37.510479,13.711044,,0,0,66,66,-7,1,476,4,546,,,,,,
 2022-03-13,CL,085005,Campofranco,37.510479,13.711044,,0,0,65,65,-1,0,477,4,546,,,,,,
+2022-03-14,CL,085005,Campofranco,37.510479,13.711044,,0,0,70,70,5,9,481,4,555,,,,,,
