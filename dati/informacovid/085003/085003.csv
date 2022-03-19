@@ -1,7 +1,6 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
 2021-03-06,CL,085003,Butera,37.190354,14.183489,,0,0,3,3,,,76,0,79,,,,,,
-2021-03-17,CL,085003,Butera,37.190354,14.183489,,0,0,2,2,-1,2,79,0,81,,,,,,
-2021-03-18,CL,085003,Butera,37.190354,14.183489,,0,0,2,2,0,0,79,0,81,,,,,,
+2021-03-18,CL,085003,Butera,37.190354,14.183489,,0,0,2,2,-1,2,79,0,81,,,,,,
 2021-03-19,CL,085003,Butera,37.190354,14.183489,,0,0,2,2,0,0,79,0,81,,,,,,
 2021-03-20,CL,085003,Butera,37.190354,14.183489,,0,0,1,1,-1,0,80,0,81,,,,,,
 2021-03-21,CL,085003,Butera,37.190354,14.183489,,0,0,1,1,0,0,80,0,81,,,,,,
@@ -300,3 +299,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-03-14,CL,085003,Butera,37.190354,14.183489,,0,0,41,41,2,7,546,3,590,,,,,,
 2022-03-15,CL,085003,Butera,37.190354,14.183489,,0,0,46,46,5,6,547,3,596,,,,,,
 2022-03-16,CL,085003,Butera,37.190354,14.183489,,0,0,53,53,7,7,547,3,603,,,,,,
+2022-03-17,CL,085003,Butera,37.190354,14.183489,,0,0,66,66,13,14,548,3,617,,,,,,
