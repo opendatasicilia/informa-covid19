@@ -1,6 +1,5 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
 2021-03-06,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,0,0,,,10,0,10,,,,,,
-2021-03-18,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,0,0,0,0,10,0,10,,,,,,
 2021-03-19,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,0,0,0,0,10,0,10,,,,,,
 2021-03-20,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,0,0,0,0,10,0,10,,,,,,
 2021-03-21,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,0,0,0,0,10,0,10,,,,,,
@@ -300,3 +299,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-03-15,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,10,10,1,1,141,0,151,,,,,,
 2022-03-16,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,10,10,0,0,141,0,151,,,,,,
 2022-03-17,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,8,8,-2,0,143,0,151,,,,,,
+2022-03-18,CL,085001,Acquaviva Platani,37.571999,13.702891,,0,0,6,6,-2,0,145,0,151,,,,,,

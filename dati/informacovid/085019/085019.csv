@@ -1,7 +1,6 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
 2021-03-06,CL,085019,Sommatino,37.334022,13.992959,,1,1,4,5,,,46,2,53,,,,,,
-2021-03-18,CL,085019,Sommatino,37.334022,13.992959,,1,1,11,12,7,9,48,2,62,,,,,,
-2021-03-19,CL,085019,Sommatino,37.334022,13.992959,,1,1,12,13,1,1,48,2,63,,,,,,
+2021-03-19,CL,085019,Sommatino,37.334022,13.992959,,1,1,12,13,8,10,48,2,63,,,,,,
 2021-03-20,CL,085019,Sommatino,37.334022,13.992959,,0,0,12,12,-1,0,48,3,63,,,,,,
 2021-03-21,CL,085019,Sommatino,37.334022,13.992959,,0,0,14,14,2,3,49,3,66,,,,,,
 2021-03-22,CL,085019,Sommatino,37.334022,13.992959,,0,0,14,14,0,0,49,3,66,,,,,,
@@ -300,3 +299,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-03-15,CL,085019,Sommatino,37.334022,13.992959,,0,1,166,167,21,38,872,5,1044,,,,,,
 2022-03-16,CL,085019,Sommatino,37.334022,13.992959,,0,1,187,188,21,25,876,5,1069,,,,,,
 2022-03-17,CL,085019,Sommatino,37.334022,13.992959,,0,1,210,211,23,29,882,5,1098,,,,,,
+2022-03-18,CL,085019,Sommatino,37.334022,13.992959,,0,1,213,214,3,24,903,5,1122,,,,,,

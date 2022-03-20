@@ -1,7 +1,6 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
 2021-03-06,CL,085016,San Cataldo,37.491446,13.993516,,0,2,35,37,,,537,9,583,,,,,,
-2021-03-18,CL,085016,San Cataldo,37.491446,13.993516,,0,2,29,31,-6,13,556,9,596,,,,,,
-2021-03-19,CL,085016,San Cataldo,37.491446,13.993516,,0,2,29,31,0,0,556,9,596,,,,,,
+2021-03-19,CL,085016,San Cataldo,37.491446,13.993516,,0,2,29,31,-6,13,556,9,596,,,,,,
 2021-03-20,CL,085016,San Cataldo,37.491446,13.993516,,0,2,35,37,6,9,559,9,605,,,,,,
 2021-03-21,CL,085016,San Cataldo,37.491446,13.993516,,0,2,39,41,4,5,560,9,610,,,,,,
 2021-03-22,CL,085016,San Cataldo,37.491446,13.993516,,0,2,39,41,0,0,560,9,610,,,,,,
@@ -300,3 +299,4 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-03-15,CL,085016,San Cataldo,37.491446,13.993516,,0,4,386,390,-1,16,3605,26,4021,,,,,,
 2022-03-16,CL,085016,San Cataldo,37.491446,13.993516,,0,4,407,411,21,22,3606,26,4043,,,,,,
 2022-03-17,CL,085016,San Cataldo,37.491446,13.993516,,0,5,423,428,17,23,3612,26,4066,,,,,,
+2022-03-18,CL,085016,San Cataldo,37.491446,13.993516,,0,4,433,437,9,42,3645,26,4108,,,,,,
