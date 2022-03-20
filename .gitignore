@@ -609,3 +609,6 @@ tmp*
 # Script outputs
 script/dati-popolazione/*.csv
 script/anagrafiche/rawdata/*
+
+# temp libreoffice
+.~lock.*
