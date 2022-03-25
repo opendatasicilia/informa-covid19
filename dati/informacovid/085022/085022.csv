@@ -1,10 +1,6 @@
 data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
 2021-03-06,CL,085022,Villalba,37.654142,13.843423,,0,0,13,13,,,24,0,37,,,,,,
-2021-03-19,CL,085022,Villalba,37.654142,13.843423,,0,0,17,17,,,27,0,44,,,,,,
-2021-03-20,CL,085022,Villalba,37.654142,13.843423,,0,0,17,17,,,27,0,44,,,,,,
-2021-03-21,CL,085022,Villalba,37.654142,13.843423,,0,0,17,17,,,27,0,44,,,,,,
 2021-03-22,CL,085022,Villalba,37.654142,13.843423,,0,0,15,15,,,29,0,44,,,,,,
-2021-03-23,CL,085022,Villalba,37.654142,13.843423,,0,0,15,15,,,29,0,44,,,,,,
 2021-03-24,CL,085022,Villalba,37.654142,13.843423,,0,0,14,14,,,30,0,44,,,,,,
 2021-03-25,CL,085022,Villalba,37.654142,13.843423,,0,0,14,14,,,30,0,44,,,,,,
 2021-03-26,CL,085022,Villalba,37.654142,13.843423,,0,0,10,10,,,34,0,44,,,,,,
@@ -300,3 +296,7 @@ data,sigla_provincia,codice_comune,denominazione_comune,lat,long,ricoverati_con_
 2022-03-16,CL,085022,Villalba,37.654142,13.843423,,0,0,17,17,,,227,0,244,,,,,,
 2022-03-17,CL,085022,Villalba,37.654142,13.843423,,0,0,14,14,,,230,0,244,,,,,,
 2022-03-18,CL,085022,Villalba,37.654142,13.843423,,0,0,15,15,,,232,0,247,,,,,,
+2022-03-19,CL,085022,Villalba,37.654142,13.843423,,0,0,14,14,,,233,0,247,,,,,,
+2022-03-20,CL,085022,Villalba,37.654142,13.843423,,0,0,14,14,,,233,0,247,,,,,,
+2022-03-21,CL,085022,Villalba,37.654142,13.843423,,0,0,13,13,,,234,0,247,,,,,,
+2022-03-23,CL,085022,Villalba,37.654142,13.843423,,0,0,12,12,,,236,0,248,,,,,,
