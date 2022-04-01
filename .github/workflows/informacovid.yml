@@ -18,7 +18,7 @@ jobs:
     - name: installa yq, frictionless e miller
       run: |-
         sudo pip install yq
-        sudo pip install frictionless==4.27.0
+        sudo pip install frictionless
         sudo apt-get install miller
     - name: aggiorna dati
       run: |-
