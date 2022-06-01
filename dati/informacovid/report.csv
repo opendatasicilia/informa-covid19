@@ -7,7 +7,7 @@ comune_codice_istat,valid
 085001,true
 085002,true
 085003,true
-085004,true
+085004,false
 085005,true
 085006,true
 085007,true
@@ -18,13 +18,13 @@ comune_codice_istat,valid
 085012,true
 085013,true
 085014,true
-085015,true
+085015,false
 085016,true
 085017,true
 085018,true
 085019,true
 085020,true
-085021,true
+085021,false
 085022,true
 086004,true
 086005,true
